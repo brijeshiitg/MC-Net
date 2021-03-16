@@ -1,0 +1,1888 @@
+2020-10-23 11:43:18,817 
+ |Epoch: 1 over| Train Loss: 0.67367| Valid Loss: 0.71356|			
+| Train Acc:56.06| Valid Acc:52.40| Test Acc:54.93|time: 1235.72s|
+
+2020-10-23 12:06:17,719 
+ |Epoch: 2 over| Train Loss: 0.64209| Valid Loss: 0.70497|			
+| Train Acc:60.76| Valid Acc:55.95| Test Acc:62.31|time: 1233.20s|
+
+2020-10-23 12:29:15,842 
+ |Epoch: 3 over| Train Loss: 0.61338| Valid Loss: 0.73838|			
+| Train Acc:63.41| Valid Acc:52.90| Test Acc:61.68|time: 1232.03s|
+
+2020-10-23 12:52:13,034 
+ |Epoch: 4 over| Train Loss: 0.57492| Valid Loss: 0.60550|			
+| Train Acc:66.68| Valid Acc:63.05| Test Acc:78.94|time: 1231.57s|
+
+2020-10-23 13:15:10,760 
+ |Epoch: 5 over| Train Loss: 0.53054| Valid Loss: 0.58384|			
+| Train Acc:69.69| Valid Acc:65.45| Test Acc:81.35|time: 1231.80s|
+
+2020-10-23 13:38:07,627 
+ |Epoch: 6 over| Train Loss: 0.50530| Valid Loss: 0.85314|			
+| Train Acc:71.50| Valid Acc:53.90| Test Acc:58.40|time: 1231.48s|
+
+2020-10-23 14:01:04,513 
+ |Epoch: 7 over| Train Loss: 0.48299| Valid Loss: 0.67915|			
+| Train Acc:72.61| Valid Acc:64.65| Test Acc:81.14|time: 1230.85s|
+
+2020-10-23 14:23:57,324 
+ |Epoch: 8 over| Train Loss: 0.46257| Valid Loss: 0.59619|			
+| Train Acc:74.20| Valid Acc:64.70| Test Acc:82.84|time: 1227.08s|
+
+2020-10-23 14:46:54,104 
+ |Epoch: 9 over| Train Loss: 0.45309| Valid Loss: 0.61409|			
+| Train Acc:74.87| Valid Acc:62.55| Test Acc:76.38|time: 1232.77s|
+
+2020-10-23 15:09:47,842 
+ |Epoch: 10 over| Train Loss: 0.43732| Valid Loss: 0.46867|			
+| Train Acc:75.99| Valid Acc:74.65| Test Acc:87.94|time: 1227.40s|
+
+2020-10-23 15:32:46,776 
+ |Epoch: 11 over| Train Loss: 0.42454| Valid Loss: 0.55637|			
+| Train Acc:76.59| Valid Acc:67.40| Test Acc:80.34|time: 1232.85s|
+
+2020-10-23 15:55:45,895 
+ |Epoch: 12 over| Train Loss: 0.42121| Valid Loss: 0.61896|			
+| Train Acc:77.10| Valid Acc:65.60| Test Acc:81.07|time: 1233.33s|
+
+2020-10-23 16:18:28,060 
+ |Epoch: 13 over| Train Loss: 0.40539| Valid Loss: 0.50002|			
+| Train Acc:78.01| Valid Acc:71.60| Test Acc:84.76|time: 1217.85s|
+
+2020-10-23 16:41:17,641 
+ |Epoch: 14 over| Train Loss: 0.40407| Valid Loss: 0.44572|			
+| Train Acc:77.85| Valid Acc:74.90| Test Acc:88.31|time: 1223.59s|
+
+2020-10-23 17:04:13,585 
+ |Epoch: 15 over| Train Loss: 0.39785| Valid Loss: 0.49036|			
+| Train Acc:78.24| Valid Acc:71.30| Test Acc:85.34|time: 1230.25s|
+
+2020-10-23 17:27:11,648 
+ |Epoch: 16 over| Train Loss: 0.39049| Valid Loss: 0.43548|			
+| Train Acc:78.68| Valid Acc:75.85| Test Acc:89.86|time: 1231.65s|
+
+2020-10-23 17:49:51,071 
+ |Epoch: 17 over| Train Loss: 0.38173| Valid Loss: 0.48679|			
+| Train Acc:79.31| Valid Acc:72.85| Test Acc:87.75|time: 1215.24s|
+
+2020-10-23 18:12:27,929 
+ |Epoch: 18 over| Train Loss: 0.38198| Valid Loss: 0.51868|			
+| Train Acc:79.57| Valid Acc:70.30| Test Acc:85.40|time: 1212.60s|
+
+2020-10-23 18:35:04,354 
+ |Epoch: 19 over| Train Loss: 0.37340| Valid Loss: 0.42573|			
+| Train Acc:80.01| Valid Acc:76.65| Test Acc:89.72|time: 1212.14s|
+
+2020-10-23 18:57:40,613 
+ |Epoch: 20 over| Train Loss: 0.36674| Valid Loss: 0.42428|			
+| Train Acc:80.21| Valid Acc:77.00| Test Acc:90.12|time: 1212.17s|
+
+2020-10-23 19:20:17,308 
+ |Epoch: 21 over| Train Loss: 0.36211| Valid Loss: 0.47929|			
+| Train Acc:80.45| Valid Acc:73.90| Test Acc:89.83|time: 1212.26s|
+
+2020-10-23 19:42:53,845 
+ |Epoch: 22 over| Train Loss: 0.36221| Valid Loss: 0.41791|			
+| Train Acc:80.45| Valid Acc:76.60| Test Acc:91.53|time: 1212.52s|
+
+2020-10-23 20:05:32,063 
+ |Epoch: 23 over| Train Loss: 0.35480| Valid Loss: 0.41690|			
+| Train Acc:80.85| Valid Acc:77.15| Test Acc:90.04|time: 1214.00s|
+
+2020-10-23 20:28:08,761 
+ |Epoch: 24 over| Train Loss: 0.35606| Valid Loss: 0.43974|			
+| Train Acc:80.92| Valid Acc:76.15| Test Acc:90.03|time: 1212.58s|
+
+2020-10-23 20:50:45,914 
+ |Epoch: 25 over| Train Loss: 0.34803| Valid Loss: 0.41626|			
+| Train Acc:81.39| Valid Acc:77.55| Test Acc:90.09|time: 1212.97s|
+
+2020-10-23 21:13:21,667 
+ |Epoch: 26 over| Train Loss: 0.34723| Valid Loss: 0.43097|			
+| Train Acc:81.63| Valid Acc:75.90| Test Acc:89.52|time: 1211.47s|
+
+2020-10-23 21:35:57,532 
+ |Epoch: 27 over| Train Loss: 0.33984| Valid Loss: 0.44923|			
+| Train Acc:81.80| Valid Acc:75.20| Test Acc:88.75|time: 1211.65s|
+
+2020-10-23 21:58:32,190 
+ |Epoch: 28 over| Train Loss: 0.33920| Valid Loss: 0.40989|			
+| Train Acc:81.52| Valid Acc:77.30| Test Acc:91.13|time: 1210.61s|
+
+2020-10-23 22:21:06,974 
+ |Epoch: 29 over| Train Loss: 0.34011| Valid Loss: 0.38380|			
+| Train Acc:81.79| Valid Acc:78.55| Test Acc:91.39|time: 1210.71s|
+
+2020-10-23 22:43:42,461 
+ |Epoch: 30 over| Train Loss: 0.33748| Valid Loss: 0.40884|			
+| Train Acc:81.98| Valid Acc:76.75| Test Acc:90.41|time: 1211.04s|
+
+2020-10-23 23:06:19,538 
+ |Epoch: 31 over| Train Loss: 0.33632| Valid Loss: 0.51033|			
+| Train Acc:82.04| Valid Acc:71.45| Test Acc:87.43|time: 1212.94s|
+
+2020-10-23 23:28:56,088 
+ |Epoch: 32 over| Train Loss: 0.32488| Valid Loss: 0.44483|			
+| Train Acc:83.11| Valid Acc:75.25| Test Acc:87.75|time: 1212.31s|
+
+2020-10-23 23:51:32,636 
+ |Epoch: 33 over| Train Loss: 0.32495| Valid Loss: 0.41665|			
+| Train Acc:82.59| Valid Acc:78.10| Test Acc:91.44|time: 1212.43s|
+
+2020-10-24 00:14:10,432 
+ |Epoch: 34 over| Train Loss: 0.32207| Valid Loss: 0.45260|			
+| Train Acc:82.90| Valid Acc:74.60| Test Acc:88.83|time: 1213.54s|
+
+2020-10-24 00:36:47,553 
+ |Epoch: 35 over| Train Loss: 0.32158| Valid Loss: 0.41585|			
+| Train Acc:82.99| Valid Acc:78.05| Test Acc:91.40|time: 1212.86s|
+
+2020-10-24 00:59:23,656 
+ |Epoch: 36 over| Train Loss: 0.31723| Valid Loss: 0.50081|			
+| Train Acc:83.22| Valid Acc:72.75| Test Acc:88.82|time: 1211.96s|
+
+2020-10-24 01:22:00,073 
+ |Epoch: 37 over| Train Loss: 0.31541| Valid Loss: 0.44399|			
+| Train Acc:83.37| Valid Acc:75.40| Test Acc:89.07|time: 1212.09s|
+
+2020-10-24 01:44:36,740 
+ |Epoch: 38 over| Train Loss: 0.31364| Valid Loss: 0.50667|			
+| Train Acc:83.26| Valid Acc:71.75| Test Acc:86.07|time: 1212.48s|
+
+2020-10-24 02:07:13,407 
+ |Epoch: 39 over| Train Loss: 0.30974| Valid Loss: 0.36279|			
+| Train Acc:83.37| Valid Acc:80.20| Test Acc:92.23|time: 1212.20s|
+
+2020-10-24 02:29:50,777 
+ |Epoch: 40 over| Train Loss: 0.30740| Valid Loss: 0.37578|			
+| Train Acc:83.96| Valid Acc:79.25| Test Acc:91.66|time: 1213.07s|
+
+2020-10-24 02:52:28,067 
+ |Epoch: 41 over| Train Loss: 0.30853| Valid Loss: 0.42408|			
+| Train Acc:83.69| Valid Acc:76.90| Test Acc:87.89|time: 1213.13s|
+
+2020-10-24 03:15:05,069 
+ |Epoch: 42 over| Train Loss: 0.30533| Valid Loss: 0.54109|			
+| Train Acc:84.07| Valid Acc:70.20| Test Acc:87.19|time: 1212.67s|
+
+2020-10-24 03:37:41,118 
+ |Epoch: 43 over| Train Loss: 0.30274| Valid Loss: 0.41354|			
+| Train Acc:83.99| Valid Acc:76.40| Test Acc:91.07|time: 1211.99s|
+
+2020-10-24 04:00:17,239 
+ |Epoch: 44 over| Train Loss: 0.30108| Valid Loss: 0.55928|			
+| Train Acc:84.09| Valid Acc:71.30| Test Acc:87.06|time: 1211.96s|
+
+2020-10-24 04:22:53,753 
+ |Epoch: 45 over| Train Loss: 0.29664| Valid Loss: 0.39852|			
+| Train Acc:84.28| Valid Acc:79.25| Test Acc:90.92|time: 1212.37s|
+
+2020-10-24 04:45:30,280 
+ |Epoch: 46 over| Train Loss: 0.29232| Valid Loss: 0.39330|			
+| Train Acc:84.74| Valid Acc:78.30| Test Acc:91.33|time: 1212.06s|
+
+2020-10-24 05:08:06,281 
+ |Epoch: 47 over| Train Loss: 0.29358| Valid Loss: 0.38516|			
+| Train Acc:84.55| Valid Acc:78.20| Test Acc:91.43|time: 1211.88s|
+
+2020-10-24 05:30:40,802 
+ |Epoch: 48 over| Train Loss: 0.29486| Valid Loss: 0.39288|			
+| Train Acc:84.45| Valid Acc:78.15| Test Acc:91.05|time: 1210.64s|
+
+2020-10-24 05:53:16,176 
+ |Epoch: 49 over| Train Loss: 0.29177| Valid Loss: 0.36715|			
+| Train Acc:84.67| Valid Acc:78.90| Test Acc:92.46|time: 1211.28s|
+
+2020-10-24 06:15:52,039 
+ |Epoch: 50 over| Train Loss: 0.29004| Valid Loss: 0.37029|			
+| Train Acc:84.85| Valid Acc:79.05| Test Acc:91.96|time: 1211.80s|
+
+2020-10-24 06:38:28,556 
+ |Epoch: 51 over| Train Loss: 0.28832| Valid Loss: 0.36907|			
+| Train Acc:84.80| Valid Acc:79.00| Test Acc:92.16|time: 1212.18s|
+
+2020-10-24 07:01:05,025 
+ |Epoch: 52 over| Train Loss: 0.28225| Valid Loss: 0.36830|			
+| Train Acc:85.29| Valid Acc:79.35| Test Acc:91.90|time: 1212.10s|
+
+2020-10-24 07:24:26,442 
+ |Epoch: 53 over| Train Loss: 0.28619| Valid Loss: 0.36131|			
+| Train Acc:84.90| Valid Acc:79.90| Test Acc:92.41|time: 1238.54s|
+
+2020-10-24 07:48:30,331 
+ |Epoch: 54 over| Train Loss: 0.28051| Valid Loss: 0.47996|			
+| Train Acc:85.17| Valid Acc:73.55| Test Acc:89.73|time: 1279.39s|
+
+2020-10-24 08:13:14,833 
+ |Epoch: 55 over| Train Loss: 0.27845| Valid Loss: 0.47893|			
+| Train Acc:85.20| Valid Acc:72.85| Test Acc:88.97|time: 1294.07s|
+
+2020-10-24 08:37:56,135 
+ |Epoch: 56 over| Train Loss: 0.28194| Valid Loss: 0.40274|			
+| Train Acc:85.21| Valid Acc:77.45| Test Acc:91.96|time: 1303.14s|
+
+2020-10-24 09:02:06,463 
+ |Epoch: 57 over| Train Loss: 0.27491| Valid Loss: 0.36933|			
+| Train Acc:85.54| Valid Acc:79.50| Test Acc:92.17|time: 1282.90s|
+
+2020-10-24 09:26:07,908 
+ |Epoch: 58 over| Train Loss: 0.27320| Valid Loss: 0.40540|			
+| Train Acc:85.59| Valid Acc:76.90| Test Acc:90.61|time: 1273.34s|
+
+2020-10-24 09:50:05,656 
+ |Epoch: 59 over| Train Loss: 0.26850| Valid Loss: 0.47427|			
+| Train Acc:85.84| Valid Acc:73.50| Test Acc:89.35|time: 1273.17s|
+
+2020-10-24 10:14:05,230 
+ |Epoch: 60 over| Train Loss: 0.27060| Valid Loss: 0.41266|			
+| Train Acc:85.82| Valid Acc:75.90| Test Acc:90.50|time: 1276.88s|
+
+2020-10-24 10:37:55,547 
+ |Epoch: 61 over| Train Loss: 0.27242| Valid Loss: 0.36068|			
+| Train Acc:85.61| Valid Acc:79.50| Test Acc:91.98|time: 1270.91s|
+
+2020-10-24 11:01:57,083 
+ |Epoch: 62 over| Train Loss: 0.26945| Valid Loss: 0.35530|			
+| Train Acc:85.91| Valid Acc:80.25| Test Acc:92.99|time: 1271.04s|
+
+2020-10-24 11:25:58,427 
+ |Epoch: 63 over| Train Loss: 0.26515| Valid Loss: 0.38617|			
+| Train Acc:86.12| Valid Acc:78.50| Test Acc:91.91|time: 1275.59s|
+
+2020-10-24 11:49:57,356 
+ |Epoch: 64 over| Train Loss: 0.26788| Valid Loss: 0.37252|			
+| Train Acc:85.81| Valid Acc:79.50| Test Acc:92.20|time: 1273.19s|
+
+2020-10-24 12:14:05,241 
+ |Epoch: 65 over| Train Loss: 0.26488| Valid Loss: 0.37206|			
+| Train Acc:86.18| Valid Acc:78.40| Test Acc:91.82|time: 1277.89s|
+
+2020-10-24 12:38:05,043 
+ |Epoch: 66 over| Train Loss: 0.26447| Valid Loss: 0.36121|			
+| Train Acc:86.00| Valid Acc:79.45| Test Acc:92.31|time: 1272.38s|
+
+2020-10-24 13:02:05,696 
+ |Epoch: 67 over| Train Loss: 0.26155| Valid Loss: 0.35429|			
+| Train Acc:86.25| Valid Acc:80.30| Test Acc:92.89|time: 1278.31s|
+
+2020-10-24 13:26:04,777 
+ |Epoch: 68 over| Train Loss: 0.26466| Valid Loss: 0.38278|			
+| Train Acc:85.83| Valid Acc:78.30| Test Acc:91.67|time: 1275.83s|
+
+2020-10-24 13:49:55,274 
+ |Epoch: 69 over| Train Loss: 0.26251| Valid Loss: 0.36061|			
+| Train Acc:86.15| Valid Acc:80.40| Test Acc:92.76|time: 1274.13s|
+
+2020-10-24 14:14:20,791 
+ |Epoch: 70 over| Train Loss: 0.25991| Valid Loss: 0.36215|			
+| Train Acc:86.18| Valid Acc:80.00| Test Acc:92.43|time: 1284.27s|
+
+2020-10-24 14:39:04,614 
+ |Epoch: 71 over| Train Loss: 0.25946| Valid Loss: 0.34324|			
+| Train Acc:86.54| Valid Acc:81.25| Test Acc:92.95|time: 1294.64s|
+
+2020-10-24 15:03:39,775 
+ |Epoch: 72 over| Train Loss: 0.25602| Valid Loss: 0.40678|			
+| Train Acc:86.50| Valid Acc:76.65| Test Acc:92.00|time: 1296.87s|
+
+2020-10-24 15:28:03,065 
+ |Epoch: 73 over| Train Loss: 0.25672| Valid Loss: 0.33170|			
+| Train Acc:86.73| Valid Acc:81.75| Test Acc:93.21|time: 1295.04s|
+
+2020-10-24 15:52:33,864 
+ |Epoch: 74 over| Train Loss: 0.25386| Valid Loss: 0.39406|			
+| Train Acc:86.61| Valid Acc:79.35| Test Acc:91.99|time: 1289.97s|
+
+2020-10-24 16:17:05,181 
+ |Epoch: 75 over| Train Loss: 0.25351| Valid Loss: 0.34585|			
+| Train Acc:86.66| Valid Acc:80.90| Test Acc:93.01|time: 1284.42s|
+
+2020-10-24 16:41:37,894 
+ |Epoch: 76 over| Train Loss: 0.25192| Valid Loss: 0.35054|			
+| Train Acc:86.74| Valid Acc:80.80| Test Acc:92.92|time: 1290.76s|
+
+2020-10-24 17:06:10,041 
+ |Epoch: 77 over| Train Loss: 0.25166| Valid Loss: 0.33402|			
+| Train Acc:86.66| Valid Acc:81.10| Test Acc:93.25|time: 1291.69s|
+
+2020-10-24 17:30:51,781 
+ |Epoch: 78 over| Train Loss: 0.25890| Valid Loss: 0.36288|			
+| Train Acc:86.48| Valid Acc:80.00| Test Acc:93.36|time: 1302.95s|
+
+2020-10-24 17:55:22,725 
+ |Epoch: 79 over| Train Loss: 0.25153| Valid Loss: 0.36878|			
+| Train Acc:86.70| Valid Acc:80.00| Test Acc:92.24|time: 1292.30s|
+
+2020-10-24 18:20:02,111 
+ |Epoch: 80 over| Train Loss: 0.24625| Valid Loss: 0.39400|			
+| Train Acc:87.14| Valid Acc:78.50| Test Acc:92.04|time: 1296.70s|
+
+2020-10-24 18:44:18,970 
+ |Epoch: 81 over| Train Loss: 0.24598| Valid Loss: 0.33137|			
+| Train Acc:86.94| Valid Acc:81.80| Test Acc:93.65|time: 1290.00s|
+
+2020-10-24 19:08:36,111 
+ |Epoch: 82 over| Train Loss: 0.24568| Valid Loss: 0.35611|			
+| Train Acc:87.15| Valid Acc:79.30| Test Acc:93.09|time: 1286.94s|
+
+2020-10-24 19:32:38,727 
+ |Epoch: 83 over| Train Loss: 0.24537| Valid Loss: 0.37335|			
+| Train Acc:87.26| Valid Acc:79.25| Test Acc:92.45|time: 1276.09s|
+
+2020-10-24 19:56:40,942 
+ |Epoch: 84 over| Train Loss: 0.24540| Valid Loss: 0.35441|			
+| Train Acc:87.16| Valid Acc:80.45| Test Acc:92.88|time: 1267.86s|
+
+2020-10-24 20:20:40,304 
+ |Epoch: 85 over| Train Loss: 0.24853| Valid Loss: 0.33793|			
+| Train Acc:87.03| Valid Acc:81.90| Test Acc:93.17|time: 1272.38s|
+
+2020-10-24 20:44:45,804 
+ |Epoch: 86 over| Train Loss: 0.24526| Valid Loss: 0.34578|			
+| Train Acc:87.28| Valid Acc:80.60| Test Acc:93.33|time: 1275.89s|
+
+2020-10-24 21:08:41,377 
+ |Epoch: 87 over| Train Loss: 0.23842| Valid Loss: 0.35031|			
+| Train Acc:87.63| Valid Acc:80.20| Test Acc:93.18|time: 1271.05s|
+
+2020-10-24 21:32:42,338 
+ |Epoch: 88 over| Train Loss: 0.24422| Valid Loss: 0.38729|			
+| Train Acc:87.19| Valid Acc:79.00| Test Acc:92.20|time: 1274.22s|
+
+2020-10-24 21:56:37,197 
+ |Epoch: 89 over| Train Loss: 0.24356| Valid Loss: 0.35478|			
+| Train Acc:87.09| Valid Acc:80.75| Test Acc:93.08|time: 1267.22s|
+
+2020-10-24 22:20:37,671 
+ |Epoch: 90 over| Train Loss: 0.23679| Valid Loss: 0.35817|			
+| Train Acc:87.39| Valid Acc:79.40| Test Acc:92.57|time: 1277.39s|
+
+2020-10-24 22:44:34,079 
+ |Epoch: 91 over| Train Loss: 0.24263| Valid Loss: 0.33794|			
+| Train Acc:87.25| Valid Acc:81.40| Test Acc:93.26|time: 1269.41s|
+
+2020-10-24 23:08:35,710 
+ |Epoch: 92 over| Train Loss: 0.24043| Valid Loss: 0.39692|			
+| Train Acc:87.55| Valid Acc:78.10| Test Acc:92.23|time: 1276.22s|
+
+2020-10-24 23:32:31,089 
+ |Epoch: 93 over| Train Loss: 0.23851| Valid Loss: 0.32920|			
+| Train Acc:87.33| Valid Acc:81.20| Test Acc:93.39|time: 1269.30s|
+
+2020-10-24 23:55:57,875 
+ |Epoch: 94 over| Train Loss: 0.23861| Valid Loss: 0.34301|			
+| Train Acc:87.44| Valid Acc:80.75| Test Acc:93.26|time: 1260.92s|
+
+2020-10-25 00:18:59,756 
+ |Epoch: 95 over| Train Loss: 0.23274| Valid Loss: 0.35647|			
+| Train Acc:87.86| Valid Acc:80.40| Test Acc:92.34|time: 1235.56s|
+
+2020-10-25 00:42:00,254 
+ |Epoch: 96 over| Train Loss: 0.23665| Valid Loss: 0.35146|			
+| Train Acc:87.57| Valid Acc:81.05| Test Acc:92.84|time: 1234.38s|
+
+2020-10-25 01:05:00,167 
+ |Epoch: 97 over| Train Loss: 0.23791| Valid Loss: 0.32718|			
+| Train Acc:87.64| Valid Acc:81.75| Test Acc:93.17|time: 1234.18s|
+
+2020-10-25 01:27:59,856 
+ |Epoch: 98 over| Train Loss: 0.23465| Valid Loss: 0.32937|			
+| Train Acc:87.58| Valid Acc:81.90| Test Acc:93.24|time: 1233.71s|
+
+2020-10-25 01:51:00,701 
+ |Epoch: 99 over| Train Loss: 0.23419| Valid Loss: 0.33482|			
+| Train Acc:87.60| Valid Acc:81.35| Test Acc:93.39|time: 1234.75s|
+
+2020-10-25 02:14:00,426 
+ |Epoch: 100 over| Train Loss: 0.21936| Valid Loss: 0.32704|			
+| Train Acc:88.42| Valid Acc:82.00| Test Acc:93.72|time: 1234.06s|
+
+2020-10-25 02:37:01,089 
+ |Epoch: 101 over| Train Loss: 0.21087| Valid Loss: 0.32410|			
+| Train Acc:88.99| Valid Acc:82.25| Test Acc:93.99|time: 1233.88s|
+
+2020-10-25 02:59:59,757 
+ |Epoch: 102 over| Train Loss: 0.21113| Valid Loss: 0.33032|			
+| Train Acc:88.96| Valid Acc:82.05| Test Acc:94.03|time: 1232.40s|
+
+2020-10-25 03:22:52,419 
+ |Epoch: 103 over| Train Loss: 0.21204| Valid Loss: 0.32924|			
+| Train Acc:88.89| Valid Acc:81.70| Test Acc:93.99|time: 1228.13s|
+
+2020-10-25 03:45:51,211 
+ |Epoch: 104 over| Train Loss: 0.20981| Valid Loss: 0.33114|			
+| Train Acc:88.88| Valid Acc:81.80| Test Acc:93.90|time: 1232.87s|
+
+2020-10-25 04:08:49,088 
+ |Epoch: 105 over| Train Loss: 0.20882| Valid Loss: 0.32643|			
+| Train Acc:88.93| Valid Acc:82.10| Test Acc:94.16|time: 1231.58s|
+
+2020-10-25 04:42:42,881 
+ |Epoch: 106 over| Train Loss: 0.20584| Valid Loss: 0.32274|			
+| Train Acc:89.13| Valid Acc:82.30| Test Acc:94.09|time: 1238.85s|
+
+2020-10-25 05:05:47,186 
+ |Epoch: 107 over| Train Loss: 0.20617| Valid Loss: 0.32581|			
+| Train Acc:89.15| Valid Acc:82.05| Test Acc:93.90|time: 1237.71s|
+
+2020-10-25 05:28:49,703 
+ |Epoch: 108 over| Train Loss: 0.20692| Valid Loss: 0.31801|			
+| Train Acc:89.18| Valid Acc:82.20| Test Acc:94.26|time: 1236.01s|
+
+2020-10-25 05:51:52,950 
+ |Epoch: 109 over| Train Loss: 0.20333| Valid Loss: 0.32774|			
+| Train Acc:89.35| Valid Acc:82.00| Test Acc:94.02|time: 1236.92s|
+
+2020-10-25 06:14:59,831 
+ |Epoch: 110 over| Train Loss: 0.20551| Valid Loss: 0.32841|			
+| Train Acc:89.32| Valid Acc:81.55| Test Acc:94.09|time: 1239.19s|
+
+2020-10-25 06:38:11,000 
+ |Epoch: 111 over| Train Loss: 0.20413| Valid Loss: 0.32002|			
+| Train Acc:89.42| Valid Acc:82.00| Test Acc:94.07|time: 1244.11s|
+
+2020-10-25 07:01:22,211 
+ |Epoch: 112 over| Train Loss: 0.20425| Valid Loss: 0.32478|			
+| Train Acc:89.34| Valid Acc:81.75| Test Acc:94.26|time: 1243.61s|
+
+2020-10-25 07:24:34,757 
+ |Epoch: 113 over| Train Loss: 0.20558| Valid Loss: 0.32663|			
+| Train Acc:89.09| Valid Acc:81.60| Test Acc:94.01|time: 1244.91s|
+
+2020-10-25 07:47:45,559 
+ |Epoch: 114 over| Train Loss: 0.20479| Valid Loss: 0.32080|			
+| Train Acc:89.22| Valid Acc:82.55| Test Acc:94.11|time: 1243.46s|
+
+2020-10-25 08:10:58,661 
+ |Epoch: 115 over| Train Loss: 0.20230| Valid Loss: 0.32715|			
+| Train Acc:89.29| Valid Acc:81.45| Test Acc:94.03|time: 1245.39s|
+
+2020-10-25 08:34:19,671 
+ |Epoch: 116 over| Train Loss: 0.20118| Valid Loss: 0.33024|			
+| Train Acc:89.53| Valid Acc:81.10| Test Acc:93.79|time: 1250.97s|
+
+2020-10-25 08:57:32,355 
+ |Epoch: 117 over| Train Loss: 0.20059| Valid Loss: 0.33258|			
+| Train Acc:89.56| Valid Acc:81.45| Test Acc:94.06|time: 1244.12s|
+
+2020-10-25 09:20:46,074 
+ |Epoch: 118 over| Train Loss: 0.20384| Valid Loss: 0.33488|			
+| Train Acc:89.25| Valid Acc:81.95| Test Acc:94.11|time: 1245.79s|
+
+2020-10-25 09:43:59,344 
+ |Epoch: 119 over| Train Loss: 0.19813| Valid Loss: 0.32291|			
+| Train Acc:89.51| Valid Acc:81.85| Test Acc:94.07|time: 1245.57s|
+
+2020-10-25 10:07:12,144 
+ |Epoch: 120 over| Train Loss: 0.20123| Valid Loss: 0.32773|			
+| Train Acc:89.47| Valid Acc:81.65| Test Acc:94.12|time: 1245.10s|
+
+2020-10-25 10:30:24,333 
+ |Epoch: 121 over| Train Loss: 0.19734| Valid Loss: 0.31534|			
+| Train Acc:89.63| Valid Acc:82.55| Test Acc:94.27|time: 1244.16s|
+
+2020-10-25 10:53:36,154 
+ |Epoch: 122 over| Train Loss: 0.19995| Valid Loss: 0.31986|			
+| Train Acc:89.47| Valid Acc:82.25| Test Acc:94.32|time: 1243.96s|
+
+2020-10-25 11:16:48,413 
+ |Epoch: 123 over| Train Loss: 0.19685| Valid Loss: 0.35570|			
+| Train Acc:89.72| Valid Acc:81.20| Test Acc:93.42|time: 1244.42s|
+
+2020-10-25 11:39:42,023 
+ |Epoch: 124 over| Train Loss: 0.20181| Valid Loss: 0.31711|			
+| Train Acc:89.40| Valid Acc:82.20| Test Acc:94.12|time: 1227.12s|
+
+2020-10-25 12:02:35,203 
+ |Epoch: 125 over| Train Loss: 0.20060| Valid Loss: 0.32922|			
+| Train Acc:89.36| Valid Acc:81.90| Test Acc:94.03|time: 1225.19s|
+
+2020-10-25 12:25:47,968 
+ |Epoch: 126 over| Train Loss: 0.19624| Valid Loss: 0.31901|			
+| Train Acc:89.62| Valid Acc:81.95| Test Acc:94.25|time: 1244.88s|
+
+2020-10-25 12:49:02,810 
+ |Epoch: 127 over| Train Loss: 0.19999| Valid Loss: 0.32532|			
+| Train Acc:89.67| Valid Acc:81.90| Test Acc:94.02|time: 1246.70s|
+
+2020-10-25 13:12:16,632 
+ |Epoch: 128 over| Train Loss: 0.19827| Valid Loss: 0.31884|			
+| Train Acc:89.75| Valid Acc:82.30| Test Acc:94.34|time: 1245.66s|
+
+2020-10-25 13:35:32,204 
+ |Epoch: 129 over| Train Loss: 0.19964| Valid Loss: 0.32633|			
+| Train Acc:89.47| Valid Acc:81.80| Test Acc:94.25|time: 1247.31s|
+
+2020-10-25 13:58:46,363 
+ |Epoch: 130 over| Train Loss: 0.19881| Valid Loss: 0.32286|			
+| Train Acc:89.46| Valid Acc:82.25| Test Acc:94.18|time: 1246.05s|
+
+2020-10-25 14:21:59,722 
+ |Epoch: 131 over| Train Loss: 0.19903| Valid Loss: 0.32777|			
+| Train Acc:89.31| Valid Acc:82.10| Test Acc:94.24|time: 1245.37s|
+
+2020-10-25 14:45:12,583 
+ |Epoch: 132 over| Train Loss: 0.19454| Valid Loss: 0.32662|			
+| Train Acc:89.61| Valid Acc:82.10| Test Acc:93.89|time: 1244.86s|
+
+2020-10-25 15:08:26,199 
+ |Epoch: 133 over| Train Loss: 0.19851| Valid Loss: 0.31843|			
+| Train Acc:89.62| Valid Acc:82.20| Test Acc:94.11|time: 1246.17s|
+
+2020-10-25 15:31:38,353 
+ |Epoch: 134 over| Train Loss: 0.19569| Valid Loss: 0.32730|			
+| Train Acc:89.48| Valid Acc:82.05| Test Acc:94.11|time: 1244.42s|
+
+2020-10-25 15:54:51,959 
+ |Epoch: 135 over| Train Loss: 0.19736| Valid Loss: 0.32508|			
+| Train Acc:89.53| Valid Acc:82.50| Test Acc:94.01|time: 1245.57s|
+
+2020-10-25 16:18:05,739 
+ |Epoch: 136 over| Train Loss: 0.19877| Valid Loss: 0.33477|			
+| Train Acc:89.56| Valid Acc:81.75| Test Acc:93.84|time: 1246.23s|
+
+2020-10-25 16:41:19,859 
+ |Epoch: 137 over| Train Loss: 0.19792| Valid Loss: 0.32460|			
+| Train Acc:89.34| Valid Acc:82.40| Test Acc:94.05|time: 1246.42s|
+
+2020-10-25 17:04:33,193 
+ |Epoch: 138 over| Train Loss: 0.19831| Valid Loss: 0.33614|			
+| Train Acc:89.74| Valid Acc:81.85| Test Acc:93.70|time: 1245.60s|
+
+2020-10-25 17:27:47,280 
+ |Epoch: 139 over| Train Loss: 0.19548| Valid Loss: 0.34632|			
+| Train Acc:89.71| Valid Acc:81.60| Test Acc:93.79|time: 1246.21s|
+
+2020-10-25 17:51:01,178 
+ |Epoch: 140 over| Train Loss: 0.19477| Valid Loss: 0.32172|			
+| Train Acc:89.62| Valid Acc:82.65| Test Acc:94.21|time: 1245.93s|
+
+2020-10-25 18:14:15,392 
+ |Epoch: 141 over| Train Loss: 0.19812| Valid Loss: 0.31812|			
+| Train Acc:89.36| Valid Acc:82.70| Test Acc:94.12|time: 1246.42s|
+
+2020-10-25 18:37:29,559 
+ |Epoch: 142 over| Train Loss: 0.19749| Valid Loss: 0.32729|			
+| Train Acc:89.61| Valid Acc:81.95| Test Acc:94.08|time: 1246.62s|
+
+2020-10-25 19:00:42,698 
+ |Epoch: 143 over| Train Loss: 0.19601| Valid Loss: 0.32494|			
+| Train Acc:89.72| Valid Acc:82.35| Test Acc:94.09|time: 1245.62s|
+
+2020-10-25 19:23:57,827 
+ |Epoch: 144 over| Train Loss: 0.19673| Valid Loss: 0.33215|			
+| Train Acc:89.84| Valid Acc:81.90| Test Acc:94.13|time: 1247.13s|
+
+2020-10-25 19:47:11,619 
+ |Epoch: 145 over| Train Loss: 0.19772| Valid Loss: 0.33654|			
+| Train Acc:89.53| Valid Acc:81.45| Test Acc:93.88|time: 1246.16s|
+
+2020-10-25 20:10:25,320 
+ |Epoch: 146 over| Train Loss: 0.19517| Valid Loss: 0.33514|			
+| Train Acc:89.69| Valid Acc:81.90| Test Acc:93.99|time: 1245.86s|
+
+2020-10-25 20:33:39,614 
+ |Epoch: 147 over| Train Loss: 0.19554| Valid Loss: 0.32534|			
+| Train Acc:89.69| Valid Acc:82.45| Test Acc:94.30|time: 1246.78s|
+
+2020-10-25 20:56:53,703 
+ |Epoch: 148 over| Train Loss: 0.19519| Valid Loss: 0.33002|			
+| Train Acc:89.69| Valid Acc:81.90| Test Acc:94.34|time: 1245.96s|
+
+2020-10-25 21:20:06,999 
+ |Epoch: 149 over| Train Loss: 0.19403| Valid Loss: 0.33720|			
+| Train Acc:89.61| Valid Acc:81.55| Test Acc:94.15|time: 1245.27s|
+
+2020-10-25 21:43:20,642 
+ |Epoch: 150 over| Train Loss: 0.19221| Valid Loss: 0.32848|			
+| Train Acc:89.72| Valid Acc:82.70| Test Acc:94.43|time: 1245.98s|
+
+2020-10-25 22:06:33,922 
+ |Epoch: 151 over| Train Loss: 0.19259| Valid Loss: 0.33479|			
+| Train Acc:90.02| Valid Acc:82.45| Test Acc:93.79|time: 1245.79s|
+
+2020-10-25 22:29:37,959 
+ |Epoch: 152 over| Train Loss: 0.19415| Valid Loss: 0.32870|			
+| Train Acc:89.71| Valid Acc:82.50| Test Acc:94.16|time: 1237.99s|
+
+2020-10-25 22:52:50,869 
+ |Epoch: 153 over| Train Loss: 0.19576| Valid Loss: 0.33041|			
+| Train Acc:89.83| Valid Acc:82.10| Test Acc:93.97|time: 1245.02s|
+
+2020-10-25 23:16:03,812 
+ |Epoch: 154 over| Train Loss: 0.19578| Valid Loss: 0.33226|			
+| Train Acc:89.74| Valid Acc:82.15| Test Acc:94.07|time: 1245.06s|
+
+2020-10-25 23:39:18,519 
+ |Epoch: 155 over| Train Loss: 0.19569| Valid Loss: 0.32649|			
+| Train Acc:89.64| Valid Acc:82.70| Test Acc:94.24|time: 1246.60s|
+
+2020-10-26 00:02:32,594 
+ |Epoch: 156 over| Train Loss: 0.19241| Valid Loss: 0.34205|			
+| Train Acc:90.03| Valid Acc:81.85| Test Acc:93.81|time: 1246.18s|
+
+2020-10-26 00:50:01,325 
+ |Epoch: 157 over| Train Loss: 0.19288| Valid Loss: 0.32252|			
+| Train Acc:90.16| Valid Acc:82.30| Test Acc:94.33|time: 1246.49s|
+
+2020-10-26 01:13:14,093 
+ |Epoch: 158 over| Train Loss: 0.18835| Valid Loss: 0.33150|			
+| Train Acc:90.11| Valid Acc:82.35| Test Acc:94.17|time: 1245.40s|
+
+2020-10-26 01:36:26,405 
+ |Epoch: 159 over| Train Loss: 0.19445| Valid Loss: 0.32686|			
+| Train Acc:89.88| Valid Acc:82.40| Test Acc:94.20|time: 1245.18s|
+
+2020-10-26 01:59:37,595 
+ |Epoch: 160 over| Train Loss: 0.19117| Valid Loss: 0.32865|			
+| Train Acc:89.95| Valid Acc:82.35| Test Acc:94.24|time: 1244.21s|
+
+2020-10-26 02:22:49,433 
+ |Epoch: 161 over| Train Loss: 0.19159| Valid Loss: 0.33008|			
+| Train Acc:89.85| Valid Acc:82.50| Test Acc:94.19|time: 1244.56s|
+
+2020-10-26 02:46:02,460 
+ |Epoch: 162 over| Train Loss: 0.18908| Valid Loss: 0.32368|			
+| Train Acc:90.05| Valid Acc:82.50| Test Acc:94.41|time: 1245.27s|
+
+2020-10-26 03:09:14,968 
+ |Epoch: 163 over| Train Loss: 0.19075| Valid Loss: 0.32720|			
+| Train Acc:89.88| Valid Acc:82.25| Test Acc:94.34|time: 1245.25s|
+
+2020-10-26 03:32:28,326 
+ |Epoch: 164 over| Train Loss: 0.18834| Valid Loss: 0.33175|			
+| Train Acc:90.16| Valid Acc:82.30| Test Acc:94.11|time: 1245.72s|
+
+2020-10-26 03:55:41,325 
+ |Epoch: 165 over| Train Loss: 0.19119| Valid Loss: 0.31852|			
+| Train Acc:89.91| Valid Acc:82.40| Test Acc:94.32|time: 1245.51s|
+
+2020-10-26 04:18:55,843 
+ |Epoch: 166 over| Train Loss: 0.18711| Valid Loss: 0.32663|			
+| Train Acc:89.91| Valid Acc:82.65| Test Acc:94.34|time: 1247.04s|
+
+2020-10-26 04:41:55,240 
+ |Epoch: 167 over| Train Loss: 0.19020| Valid Loss: 0.32840|			
+| Train Acc:90.02| Valid Acc:82.15| Test Acc:94.40|time: 1233.73s|
+
+2020-10-26 05:04:47,781 
+ |Epoch: 168 over| Train Loss: 0.18736| Valid Loss: 0.33520|			
+| Train Acc:90.21| Valid Acc:82.40| Test Acc:94.23|time: 1226.70s|
+
+2020-10-26 05:27:39,090 
+ |Epoch: 169 over| Train Loss: 0.18921| Valid Loss: 0.33322|			
+| Train Acc:90.03| Valid Acc:82.05| Test Acc:94.09|time: 1225.18s|
+
+2020-10-26 05:50:29,116 
+ |Epoch: 170 over| Train Loss: 0.18796| Valid Loss: 0.34154|			
+| Train Acc:90.23| Valid Acc:81.90| Test Acc:93.80|time: 1223.84s|
+
+2020-10-26 06:13:18,040 
+ |Epoch: 171 over| Train Loss: 0.19062| Valid Loss: 0.34053|			
+| Train Acc:90.07| Valid Acc:81.45| Test Acc:93.90|time: 1223.30s|
+
+2020-10-26 06:36:07,084 
+ |Epoch: 172 over| Train Loss: 0.18701| Valid Loss: 0.33127|			
+| Train Acc:90.25| Valid Acc:82.20| Test Acc:94.33|time: 1222.95s|
+
+2020-10-26 06:58:56,014 
+ |Epoch: 173 over| Train Loss: 0.18800| Valid Loss: 0.33165|			
+| Train Acc:89.96| Valid Acc:82.15| Test Acc:94.32|time: 1222.96s|
+
+2020-10-26 07:21:44,797 
+ |Epoch: 174 over| Train Loss: 0.18966| Valid Loss: 0.32885|			
+| Train Acc:90.15| Valid Acc:82.20| Test Acc:94.45|time: 1223.14s|
+
+2020-10-26 07:44:33,877 
+ |Epoch: 175 over| Train Loss: 0.19126| Valid Loss: 0.33447|			
+| Train Acc:89.83| Valid Acc:81.15| Test Acc:93.96|time: 1223.33s|
+
+2020-10-26 08:07:22,667 
+ |Epoch: 176 over| Train Loss: 0.18815| Valid Loss: 0.32756|			
+| Train Acc:90.11| Valid Acc:81.95| Test Acc:94.20|time: 1222.82s|
+
+2020-10-26 08:30:10,447 
+ |Epoch: 177 over| Train Loss: 0.19088| Valid Loss: 0.32036|			
+| Train Acc:89.85| Valid Acc:82.80| Test Acc:94.37|time: 1222.11s|
+
+2020-10-26 08:52:59,657 
+ |Epoch: 178 over| Train Loss: 0.18688| Valid Loss: 0.33605|			
+| Train Acc:90.25| Valid Acc:82.40| Test Acc:94.36|time: 1223.07s|
+
+2020-10-26 09:15:48,490 
+ |Epoch: 179 over| Train Loss: 0.18985| Valid Loss: 0.32648|			
+| Train Acc:90.02| Valid Acc:82.35| Test Acc:94.48|time: 1222.54s|
+
+2020-10-26 09:38:37,658 
+ |Epoch: 180 over| Train Loss: 0.18914| Valid Loss: 0.32745|			
+| Train Acc:90.14| Valid Acc:82.25| Test Acc:94.35|time: 1222.78s|
+
+2020-10-26 10:01:26,302 
+ |Epoch: 181 over| Train Loss: 0.18894| Valid Loss: 0.32712|			
+| Train Acc:89.91| Valid Acc:81.80| Test Acc:94.30|time: 1222.52s|
+
+2020-10-26 10:24:14,542 
+ |Epoch: 182 over| Train Loss: 0.19008| Valid Loss: 0.31861|			
+| Train Acc:89.97| Valid Acc:81.95| Test Acc:94.30|time: 1222.59s|
+
+2020-10-26 10:47:03,001 
+ |Epoch: 183 over| Train Loss: 0.19181| Valid Loss: 0.33289|			
+| Train Acc:90.13| Valid Acc:81.75| Test Acc:94.10|time: 1222.75s|
+
+2020-10-26 11:09:51,941 
+ |Epoch: 184 over| Train Loss: 0.18608| Valid Loss: 0.32901|			
+| Train Acc:90.09| Valid Acc:82.20| Test Acc:94.39|time: 1223.16s|
+
+2020-10-26 11:32:40,221 
+ |Epoch: 185 over| Train Loss: 0.18866| Valid Loss: 0.35268|			
+| Train Acc:90.27| Valid Acc:81.45| Test Acc:93.58|time: 1222.33s|
+
+2020-10-26 11:55:28,602 
+ |Epoch: 186 over| Train Loss: 0.19291| Valid Loss: 0.32729|			
+| Train Acc:89.72| Valid Acc:82.35| Test Acc:94.45|time: 1222.56s|
+
+2020-10-26 12:18:17,266 
+ |Epoch: 187 over| Train Loss: 0.18792| Valid Loss: 0.32810|			
+| Train Acc:90.05| Valid Acc:82.35| Test Acc:94.38|time: 1222.20s|
+
+2020-10-26 12:41:23,796 
+ |Epoch: 188 over| Train Loss: 0.18940| Valid Loss: 0.33691|			
+| Train Acc:90.22| Valid Acc:82.10| Test Acc:93.97|time: 1240.09s|
+
+2020-10-26 13:04:28,024 
+ |Epoch: 189 over| Train Loss: 0.18896| Valid Loss: 0.33863|			
+| Train Acc:90.05| Valid Acc:81.75| Test Acc:93.97|time: 1237.34s|
+
+2020-10-26 13:27:34,659 
+ |Epoch: 190 over| Train Loss: 0.19161| Valid Loss: 0.32673|			
+| Train Acc:90.00| Valid Acc:82.20| Test Acc:94.52|time: 1239.83s|
+
+2020-10-26 13:50:39,760 
+ |Epoch: 191 over| Train Loss: 0.19105| Valid Loss: 0.33259|			
+| Train Acc:89.90| Valid Acc:81.60| Test Acc:94.00|time: 1238.26s|
+
+2020-10-26 14:13:46,910 
+ |Epoch: 192 over| Train Loss: 0.18849| Valid Loss: 0.32528|			
+| Train Acc:90.11| Valid Acc:82.35| Test Acc:94.53|time: 1239.91s|
+
+2020-10-26 14:36:41,693 
+ |Epoch: 193 over| Train Loss: 0.18759| Valid Loss: 0.33717|			
+| Train Acc:90.09| Valid Acc:81.95| Test Acc:94.08|time: 1228.95s|
+
+2020-10-26 14:59:30,548 
+ |Epoch: 194 over| Train Loss: 0.18947| Valid Loss: 0.32602|			
+| Train Acc:90.03| Valid Acc:82.10| Test Acc:94.45|time: 1223.09s|
+
+2020-10-26 15:22:15,704 
+ |Epoch: 195 over| Train Loss: 0.18972| Valid Loss: 0.33652|			
+| Train Acc:90.06| Valid Acc:81.75| Test Acc:93.95|time: 1219.76s|
+
+2020-10-26 15:45:01,808 
+ |Epoch: 196 over| Train Loss: 0.19060| Valid Loss: 0.32601|			
+| Train Acc:90.02| Valid Acc:82.15| Test Acc:94.44|time: 1220.58s|
+
+2020-10-26 16:07:46,194 
+ |Epoch: 197 over| Train Loss: 0.18704| Valid Loss: 0.35034|			
+| Train Acc:90.15| Valid Acc:81.70| Test Acc:93.71|time: 1219.08s|
+
+2020-10-26 16:30:31,096 
+ |Epoch: 198 over| Train Loss: 0.18836| Valid Loss: 0.32309|			
+| Train Acc:90.05| Valid Acc:82.05| Test Acc:94.42|time: 1219.48s|
+
+2020-10-26 16:53:17,271 
+ |Epoch: 199 over| Train Loss: 0.19037| Valid Loss: 0.32732|			
+| Train Acc:90.00| Valid Acc:82.45| Test Acc:94.33|time: 1220.63s|
+
+2020-10-26 17:16:02,434 
+ |Epoch: 200 over| Train Loss: 0.18631| Valid Loss: 0.33188|			
+| Train Acc:89.96| Valid Acc:81.85| Test Acc:94.41|time: 1219.68s|
+
+2020-10-26 17:38:48,205 
+ |Epoch: 201 over| Train Loss: 0.18727| Valid Loss: 0.32949|			
+| Train Acc:89.98| Valid Acc:82.40| Test Acc:94.51|time: 1219.64s|
+
+2020-10-26 18:01:32,589 
+ |Epoch: 202 over| Train Loss: 0.18678| Valid Loss: 0.32866|			
+| Train Acc:90.28| Valid Acc:82.15| Test Acc:94.46|time: 1218.51s|
+
+2020-10-26 18:24:18,338 
+ |Epoch: 203 over| Train Loss: 0.18857| Valid Loss: 0.32802|			
+| Train Acc:90.12| Valid Acc:82.00| Test Acc:94.35|time: 1219.76s|
+
+2020-10-26 18:47:03,593 
+ |Epoch: 204 over| Train Loss: 0.18952| Valid Loss: 0.33200|			
+| Train Acc:90.19| Valid Acc:82.20| Test Acc:94.47|time: 1219.67s|
+
+2020-10-26 19:09:48,648 
+ |Epoch: 205 over| Train Loss: 0.18473| Valid Loss: 0.33454|			
+| Train Acc:90.40| Valid Acc:81.85| Test Acc:94.35|time: 1219.61s|
+
+2020-10-26 19:32:34,601 
+ |Epoch: 206 over| Train Loss: 0.18792| Valid Loss: 0.32742|			
+| Train Acc:90.20| Valid Acc:82.20| Test Acc:94.45|time: 1219.93s|
+
+2020-10-26 19:55:20,618 
+ |Epoch: 207 over| Train Loss: 0.19004| Valid Loss: 0.33250|			
+| Train Acc:90.08| Valid Acc:81.70| Test Acc:94.21|time: 1220.58s|
+
+2020-10-26 20:18:08,078 
+ |Epoch: 208 over| Train Loss: 0.19020| Valid Loss: 0.33314|			
+| Train Acc:90.04| Valid Acc:82.40| Test Acc:94.33|time: 1221.48s|
+
+2020-10-26 20:40:56,039 
+ |Epoch: 209 over| Train Loss: 0.18791| Valid Loss: 0.35363|			
+| Train Acc:90.04| Valid Acc:81.55| Test Acc:93.64|time: 1222.41s|
+
+2020-10-26 21:03:43,957 
+ |Epoch: 210 over| Train Loss: 0.18826| Valid Loss: 0.34209|			
+| Train Acc:89.98| Valid Acc:81.80| Test Acc:94.04|time: 1221.92s|
+
+2020-10-26 21:26:31,917 
+ |Epoch: 211 over| Train Loss: 0.18554| Valid Loss: 0.33397|			
+| Train Acc:90.36| Valid Acc:82.25| Test Acc:94.28|time: 1222.30s|
+
+2020-10-26 21:49:19,121 
+ |Epoch: 212 over| Train Loss: 0.18706| Valid Loss: 0.33395|			
+| Train Acc:90.15| Valid Acc:81.95| Test Acc:94.21|time: 1221.59s|
+
+2020-10-26 22:12:07,233 
+ |Epoch: 213 over| Train Loss: 0.18475| Valid Loss: 0.33105|			
+| Train Acc:90.39| Valid Acc:82.05| Test Acc:94.44|time: 1221.89s|
+
+2020-10-26 22:34:55,014 
+ |Epoch: 214 over| Train Loss: 0.18976| Valid Loss: 0.33567|			
+| Train Acc:90.11| Valid Acc:82.10| Test Acc:94.23|time: 1221.92s|
+
+2020-10-26 22:57:42,141 
+ |Epoch: 215 over| Train Loss: 0.18727| Valid Loss: 0.32833|			
+| Train Acc:90.01| Valid Acc:82.20| Test Acc:94.49|time: 1221.46s|
+
+2020-10-26 23:20:30,271 
+ |Epoch: 216 over| Train Loss: 0.18945| Valid Loss: 0.32769|			
+| Train Acc:90.00| Valid Acc:82.30| Test Acc:94.22|time: 1221.96s|
+
+2020-10-26 23:43:18,756 
+ |Epoch: 217 over| Train Loss: 0.18903| Valid Loss: 0.32663|			
+| Train Acc:89.85| Valid Acc:82.50| Test Acc:94.36|time: 1221.58s|
+
+2020-10-27 00:06:07,395 
+ |Epoch: 218 over| Train Loss: 0.18687| Valid Loss: 0.32791|			
+| Train Acc:90.18| Valid Acc:82.20| Test Acc:94.49|time: 1221.63s|
+
+2020-10-27 00:28:54,799 
+ |Epoch: 219 over| Train Loss: 0.19268| Valid Loss: 0.33205|			
+| Train Acc:89.80| Valid Acc:81.45| Test Acc:93.89|time: 1221.57s|
+
+2020-10-27 00:51:41,163 
+ |Epoch: 220 over| Train Loss: 0.18718| Valid Loss: 0.32770|			
+| Train Acc:90.19| Valid Acc:82.35| Test Acc:94.30|time: 1220.26s|
+
+2020-10-27 01:14:27,589 
+ |Epoch: 221 over| Train Loss: 0.18880| Valid Loss: 0.33021|			
+| Train Acc:89.94| Valid Acc:82.30| Test Acc:94.35|time: 1220.53s|
+
+2020-10-27 01:37:15,337 
+ |Epoch: 222 over| Train Loss: 0.18578| Valid Loss: 0.34301|			
+| Train Acc:90.33| Valid Acc:81.75| Test Acc:94.05|time: 1221.52s|
+
+2020-10-27 02:00:02,432 
+ |Epoch: 223 over| Train Loss: 0.19023| Valid Loss: 0.34733|			
+| Train Acc:90.02| Valid Acc:81.50| Test Acc:93.81|time: 1220.88s|
+
+2020-10-27 02:40:04,209 
+ |Epoch: 224 over| Train Loss: 0.19211| Valid Loss: 0.32722|			
+| Train Acc:90.02| Valid Acc:82.40| Test Acc:94.43|time: 1240.70s|
+
+2020-10-27 03:03:11,181 
+ |Epoch: 225 over| Train Loss: 0.19194| Valid Loss: 0.33149|			
+| Train Acc:89.88| Valid Acc:82.00| Test Acc:94.26|time: 1239.73s|
+
+2020-10-27 03:26:19,863 
+ |Epoch: 226 over| Train Loss: 0.19272| Valid Loss: 0.33561|			
+| Train Acc:89.70| Valid Acc:82.25| Test Acc:94.30|time: 1241.29s|
+
+2020-10-27 03:49:26,248 
+ |Epoch: 227 over| Train Loss: 0.19289| Valid Loss: 0.34905|			
+| Train Acc:89.81| Valid Acc:81.45| Test Acc:93.62|time: 1239.22s|
+
+2020-10-27 04:12:34,269 
+ |Epoch: 228 over| Train Loss: 0.19263| Valid Loss: 0.32508|			
+| Train Acc:89.84| Valid Acc:82.25| Test Acc:94.48|time: 1241.00s|
+
+2020-10-27 04:35:41,555 
+ |Epoch: 229 over| Train Loss: 0.19661| Valid Loss: 0.32772|			
+| Train Acc:89.54| Valid Acc:82.45| Test Acc:94.38|time: 1239.91s|
+
+2020-10-27 04:58:49,456 
+ |Epoch: 230 over| Train Loss: 0.19153| Valid Loss: 0.33103|			
+| Train Acc:89.94| Valid Acc:82.30| Test Acc:94.30|time: 1240.73s|
+
+2020-10-27 05:21:57,141 
+ |Epoch: 231 over| Train Loss: 0.19193| Valid Loss: 0.33191|			
+| Train Acc:89.88| Valid Acc:82.05| Test Acc:94.49|time: 1240.25s|
+
+2020-10-27 05:45:03,629 
+ |Epoch: 232 over| Train Loss: 0.18777| Valid Loss: 0.33226|			
+| Train Acc:90.11| Valid Acc:82.20| Test Acc:94.46|time: 1239.23s|
+
+2020-10-27 06:08:11,253 
+ |Epoch: 233 over| Train Loss: 0.19095| Valid Loss: 0.33844|			
+| Train Acc:90.13| Valid Acc:82.05| Test Acc:94.31|time: 1240.61s|
+
+2020-10-27 06:31:19,102 
+ |Epoch: 234 over| Train Loss: 0.19349| Valid Loss: 0.32983|			
+| Train Acc:89.74| Valid Acc:82.35| Test Acc:94.43|time: 1240.77s|
+
+2020-10-27 06:54:26,320 
+ |Epoch: 235 over| Train Loss: 0.19208| Valid Loss: 0.33463|			
+| Train Acc:89.82| Valid Acc:82.10| Test Acc:94.24|time: 1239.86s|
+
+2020-10-27 07:17:33,444 
+ |Epoch: 236 over| Train Loss: 0.18826| Valid Loss: 0.33069|			
+| Train Acc:90.15| Valid Acc:82.40| Test Acc:94.43|time: 1239.80s|
+
+2020-10-27 07:40:39,381 
+ |Epoch: 237 over| Train Loss: 0.19177| Valid Loss: 0.33266|			
+| Train Acc:89.76| Valid Acc:82.00| Test Acc:94.10|time: 1239.28s|
+
+2020-10-27 08:03:39,916 
+ |Epoch: 238 over| Train Loss: 0.19116| Valid Loss: 0.33893|			
+| Train Acc:89.95| Valid Acc:82.45| Test Acc:94.46|time: 1233.56s|
+
+2020-10-27 08:26:48,249 
+ |Epoch: 239 over| Train Loss: 0.19170| Valid Loss: 0.33334|			
+| Train Acc:89.97| Valid Acc:82.65| Test Acc:94.37|time: 1241.03s|
+
+2020-10-27 08:49:54,920 
+ |Epoch: 240 over| Train Loss: 0.18967| Valid Loss: 0.32923|			
+| Train Acc:89.92| Valid Acc:82.15| Test Acc:94.44|time: 1239.31s|
+
+2020-10-27 09:13:01,038 
+ |Epoch: 241 over| Train Loss: 0.19249| Valid Loss: 0.33078|			
+| Train Acc:89.96| Valid Acc:82.45| Test Acc:94.51|time: 1239.05s|
+
+2020-10-27 09:35:55,938 
+ |Epoch: 242 over| Train Loss: 0.19062| Valid Loss: 0.34302|			
+| Train Acc:89.96| Valid Acc:81.65| Test Acc:94.22|time: 1227.94s|
+
+2020-10-27 09:59:02,386 
+ |Epoch: 243 over| Train Loss: 0.19600| Valid Loss: 0.33004|			
+| Train Acc:89.55| Valid Acc:82.00| Test Acc:94.34|time: 1238.92s|
+
+2020-10-27 10:22:07,504 
+ |Epoch: 244 over| Train Loss: 0.19199| Valid Loss: 0.33186|			
+| Train Acc:89.66| Valid Acc:82.15| Test Acc:94.41|time: 1237.72s|
+
+2020-10-27 10:45:13,139 
+ |Epoch: 245 over| Train Loss: 0.19402| Valid Loss: 0.33189|			
+| Train Acc:89.70| Valid Acc:81.95| Test Acc:94.06|time: 1238.48s|
+
+2020-10-27 11:08:19,140 
+ |Epoch: 246 over| Train Loss: 0.19122| Valid Loss: 0.32820|			
+| Train Acc:89.85| Valid Acc:82.45| Test Acc:94.45|time: 1238.63s|
+
+2020-10-27 11:31:24,477 
+ |Epoch: 247 over| Train Loss: 0.19176| Valid Loss: 0.33245|			
+| Train Acc:89.81| Valid Acc:82.00| Test Acc:94.28|time: 1238.22s|
+
+2020-10-27 11:54:30,641 
+ |Epoch: 248 over| Train Loss: 0.19106| Valid Loss: 0.33320|			
+| Train Acc:89.85| Valid Acc:82.25| Test Acc:94.35|time: 1238.48s|
+
+2020-10-27 12:17:37,039 
+ |Epoch: 249 over| Train Loss: 0.18917| Valid Loss: 0.34044|			
+| Train Acc:89.96| Valid Acc:81.80| Test Acc:94.14|time: 1238.67s|
+
+2020-10-27 12:40:38,809 
+ |Epoch: 250 over| Train Loss: 0.18882| Valid Loss: 0.32840|			
+| Train Acc:89.98| Valid Acc:82.25| Test Acc:94.52|time: 1234.59s|
+
+2020-10-27 13:03:42,669 
+ |Epoch: 251 over| Train Loss: 0.19196| Valid Loss: 0.32637|			
+| Train Acc:89.69| Valid Acc:82.40| Test Acc:94.39|time: 1236.85s|
+
+2020-10-27 13:26:28,850 
+ |Epoch: 252 over| Train Loss: 0.18909| Valid Loss: 0.33329|			
+| Train Acc:89.99| Valid Acc:81.90| Test Acc:94.19|time: 1220.33s|
+
+2020-10-27 13:49:15,888 
+ |Epoch: 253 over| Train Loss: 0.19217| Valid Loss: 0.34154|			
+| Train Acc:90.07| Valid Acc:82.10| Test Acc:94.22|time: 1220.11s|
+
+2020-10-27 14:12:18,569 
+ |Epoch: 254 over| Train Loss: 0.18746| Valid Loss: 0.32859|			
+| Train Acc:90.15| Valid Acc:82.30| Test Acc:94.44|time: 1235.89s|
+
+2020-10-27 14:35:21,448 
+ |Epoch: 255 over| Train Loss: 0.19017| Valid Loss: 0.34268|			
+| Train Acc:89.95| Valid Acc:81.25| Test Acc:93.70|time: 1236.42s|
+
+2020-10-27 14:58:24,641 
+ |Epoch: 256 over| Train Loss: 0.19255| Valid Loss: 0.33037|			
+| Train Acc:89.81| Valid Acc:82.25| Test Acc:94.23|time: 1236.36s|
+
+2020-10-27 15:21:27,366 
+ |Epoch: 257 over| Train Loss: 0.19246| Valid Loss: 0.33264|			
+| Train Acc:89.87| Valid Acc:82.10| Test Acc:94.31|time: 1236.19s|
+
+2020-10-27 15:44:31,903 
+ |Epoch: 258 over| Train Loss: 0.19194| Valid Loss: 0.33036|			
+| Train Acc:89.85| Valid Acc:82.15| Test Acc:94.38|time: 1237.35s|
+
+2020-10-27 16:07:35,304 
+ |Epoch: 259 over| Train Loss: 0.18696| Valid Loss: 0.33031|			
+| Train Acc:90.02| Valid Acc:82.20| Test Acc:94.35|time: 1236.54s|
+
+2020-10-27 16:30:38,745 
+ |Epoch: 260 over| Train Loss: 0.19381| Valid Loss: 0.32844|			
+| Train Acc:89.70| Valid Acc:82.15| Test Acc:94.32|time: 1236.22s|
+
+2020-10-27 16:53:42,576 
+ |Epoch: 261 over| Train Loss: 0.19023| Valid Loss: 0.33159|			
+| Train Acc:89.94| Valid Acc:82.05| Test Acc:94.29|time: 1236.93s|
+
+2020-10-27 17:16:44,727 
+ |Epoch: 262 over| Train Loss: 0.18838| Valid Loss: 0.33761|			
+| Train Acc:89.84| Valid Acc:81.95| Test Acc:94.29|time: 1235.01s|
+
+2020-10-27 17:39:46,180 
+ |Epoch: 263 over| Train Loss: 0.19008| Valid Loss: 0.33450|			
+| Train Acc:90.10| Valid Acc:82.10| Test Acc:94.24|time: 1234.50s|
+
+2020-10-27 18:02:49,485 
+ |Epoch: 264 over| Train Loss: 0.19047| Valid Loss: 0.32800|			
+| Train Acc:89.94| Valid Acc:82.00| Test Acc:94.19|time: 1236.41s|
+
+2020-10-27 18:25:53,973 
+ |Epoch: 265 over| Train Loss: 0.18932| Valid Loss: 0.32625|			
+| Train Acc:89.95| Valid Acc:82.55| Test Acc:94.46|time: 1237.32s|
+
+2020-10-27 18:48:59,474 
+ |Epoch: 266 over| Train Loss: 0.18846| Valid Loss: 0.33008|			
+| Train Acc:90.00| Valid Acc:82.50| Test Acc:94.36|time: 1238.33s|
+
+2020-10-27 19:12:05,871 
+ |Epoch: 267 over| Train Loss: 0.19138| Valid Loss: 0.32980|			
+| Train Acc:89.89| Valid Acc:81.90| Test Acc:94.37|time: 1239.28s|
+
+2020-10-27 19:35:12,008 
+ |Epoch: 268 over| Train Loss: 0.18927| Valid Loss: 0.32385|			
+| Train Acc:90.00| Valid Acc:82.30| Test Acc:94.37|time: 1239.04s|
+
+2020-10-27 19:58:19,301 
+ |Epoch: 269 over| Train Loss: 0.18811| Valid Loss: 0.33538|			
+| Train Acc:90.21| Valid Acc:81.75| Test Acc:94.22|time: 1240.23s|
+
+2020-10-27 20:21:26,633 
+ |Epoch: 270 over| Train Loss: 0.18967| Valid Loss: 0.33400|			
+| Train Acc:90.06| Valid Acc:81.70| Test Acc:94.26|time: 1240.03s|
+
+2020-10-27 20:44:33,924 
+ |Epoch: 271 over| Train Loss: 0.18864| Valid Loss: 0.33580|			
+| Train Acc:90.15| Valid Acc:81.95| Test Acc:94.17|time: 1239.84s|
+
+2020-10-27 21:07:40,108 
+ |Epoch: 272 over| Train Loss: 0.18918| Valid Loss: 0.33949|			
+| Train Acc:89.99| Valid Acc:82.00| Test Acc:94.26|time: 1239.14s|
+
+2020-10-27 21:30:47,839 
+ |Epoch: 273 over| Train Loss: 0.19151| Valid Loss: 0.33481|			
+| Train Acc:89.90| Valid Acc:81.95| Test Acc:94.28|time: 1240.42s|
+
+2020-10-27 21:53:55,608 
+ |Epoch: 274 over| Train Loss: 0.19253| Valid Loss: 0.32667|			
+| Train Acc:89.85| Valid Acc:82.20| Test Acc:94.50|time: 1240.43s|
+
+2020-10-27 22:17:03,546 
+ |Epoch: 275 over| Train Loss: 0.18867| Valid Loss: 0.32969|			
+| Train Acc:90.05| Valid Acc:82.10| Test Acc:94.39|time: 1240.19s|
+
+2020-10-27 22:40:11,253 
+ |Epoch: 276 over| Train Loss: 0.19263| Valid Loss: 0.33629|			
+| Train Acc:89.95| Valid Acc:82.30| Test Acc:94.44|time: 1240.11s|
+
+2020-10-27 23:03:19,140 
+ |Epoch: 277 over| Train Loss: 0.19046| Valid Loss: 0.32873|			
+| Train Acc:90.00| Valid Acc:82.25| Test Acc:94.43|time: 1240.58s|
+
+2020-10-27 23:26:26,741 
+ |Epoch: 278 over| Train Loss: 0.19140| Valid Loss: 0.34522|			
+| Train Acc:89.74| Valid Acc:81.85| Test Acc:93.82|time: 1240.04s|
+
+2020-10-27 23:49:35,524 
+ |Epoch: 279 over| Train Loss: 0.19292| Valid Loss: 0.33487|			
+| Train Acc:89.83| Valid Acc:81.70| Test Acc:94.04|time: 1241.01s|
+
+2020-10-28 00:12:44,133 
+ |Epoch: 280 over| Train Loss: 0.18794| Valid Loss: 0.33294|			
+| Train Acc:90.12| Valid Acc:82.30| Test Acc:94.45|time: 1241.06s|
+
+2020-10-28 00:35:52,258 
+ |Epoch: 281 over| Train Loss: 0.19347| Valid Loss: 0.33432|			
+| Train Acc:90.02| Valid Acc:82.00| Test Acc:94.21|time: 1240.92s|
+
+2020-10-28 00:59:00,836 
+ |Epoch: 282 over| Train Loss: 0.18858| Valid Loss: 0.34671|			
+| Train Acc:90.13| Valid Acc:81.85| Test Acc:94.18|time: 1241.16s|
+
+2020-10-28 01:22:08,551 
+ |Epoch: 283 over| Train Loss: 0.19300| Valid Loss: 0.33308|			
+| Train Acc:89.90| Valid Acc:82.05| Test Acc:94.14|time: 1240.60s|
+
+2020-10-28 01:45:16,561 
+ |Epoch: 284 over| Train Loss: 0.18921| Valid Loss: 0.33691|			
+| Train Acc:89.94| Valid Acc:82.15| Test Acc:94.18|time: 1240.71s|
+
+2020-10-28 02:15:27,481 
+ |Epoch: 285 over| Train Loss: 0.18809| Valid Loss: 0.33327|			
+| Train Acc:90.01| Valid Acc:82.25| Test Acc:94.39|time: 1241.61s|
+
+2020-10-28 02:38:36,128 
+ |Epoch: 286 over| Train Loss: 0.19030| Valid Loss: 0.33253|			
+| Train Acc:90.07| Valid Acc:82.25| Test Acc:94.44|time: 1241.25s|
+
+2020-10-28 03:01:32,289 
+ |Epoch: 287 over| Train Loss: 0.18926| Valid Loss: 0.33162|			
+| Train Acc:90.02| Valid Acc:82.30| Test Acc:94.41|time: 1230.39s|
+
+2020-10-28 03:24:19,471 
+ |Epoch: 288 over| Train Loss: 0.18815| Valid Loss: 0.33354|			
+| Train Acc:90.18| Valid Acc:82.15| Test Acc:94.46|time: 1221.83s|
+
+2020-10-28 03:47:06,724 
+ |Epoch: 289 over| Train Loss: 0.19093| Valid Loss: 0.33536|			
+| Train Acc:90.00| Valid Acc:82.15| Test Acc:94.16|time: 1221.75s|
+
+2020-10-28 04:09:54,672 
+ |Epoch: 290 over| Train Loss: 0.18980| Valid Loss: 0.33480|			
+| Train Acc:90.07| Valid Acc:81.95| Test Acc:94.37|time: 1221.98s|
+
+2020-10-28 04:32:42,759 
+ |Epoch: 291 over| Train Loss: 0.18695| Valid Loss: 0.33126|			
+| Train Acc:90.25| Valid Acc:82.35| Test Acc:94.35|time: 1222.15s|
+
+2020-10-28 04:55:29,301 
+ |Epoch: 292 over| Train Loss: 0.19238| Valid Loss: 0.32831|			
+| Train Acc:89.91| Valid Acc:82.60| Test Acc:94.46|time: 1220.93s|
+
+2020-10-28 05:18:15,704 
+ |Epoch: 293 over| Train Loss: 0.18757| Valid Loss: 0.33203|			
+| Train Acc:90.06| Valid Acc:82.25| Test Acc:94.38|time: 1220.86s|
+
+2020-10-28 05:41:02,590 
+ |Epoch: 294 over| Train Loss: 0.19012| Valid Loss: 0.33316|			
+| Train Acc:89.88| Valid Acc:81.95| Test Acc:94.46|time: 1220.98s|
+
+2020-10-28 06:03:54,431 
+ |Epoch: 295 over| Train Loss: 0.18234| Valid Loss: 0.33665|			
+| Train Acc:90.31| Valid Acc:81.35| Test Acc:93.94|time: 1224.12s|
+
+2020-10-28 06:26:50,719 
+ |Epoch: 296 over| Train Loss: 0.18700| Valid Loss: 0.32623|			
+| Train Acc:90.22| Valid Acc:82.30| Test Acc:94.17|time: 1228.80s|
+
+2020-10-28 06:49:47,486 
+ |Epoch: 297 over| Train Loss: 0.19082| Valid Loss: 0.33053|			
+| Train Acc:90.12| Valid Acc:82.00| Test Acc:94.04|time: 1228.29s|
+
+2020-10-28 07:12:44,667 
+ |Epoch: 298 over| Train Loss: 0.18903| Valid Loss: 0.32927|			
+| Train Acc:89.79| Valid Acc:82.05| Test Acc:94.41|time: 1228.70s|
+
+2020-10-28 07:35:40,902 
+ |Epoch: 299 over| Train Loss: 0.19155| Valid Loss: 0.33246|			
+| Train Acc:89.86| Valid Acc:81.75| Test Acc:94.06|time: 1228.53s|
+
+2020-10-28 07:58:30,994 
+ |Epoch: 300 over| Train Loss: 0.18928| Valid Loss: 0.33600|			
+| Train Acc:89.84| Valid Acc:81.75| Test Acc:94.09|time: 1223.88s|
+
+2020-10-28 08:21:19,962 
+ |Epoch: 301 over| Train Loss: 0.18687| Valid Loss: 0.33224|			
+| Train Acc:90.20| Valid Acc:81.85| Test Acc:94.23|time: 1222.88s|
+
+2020-10-28 08:57:54,371 
+ |Epoch: 302 over| Train Loss: 0.15870| Valid Loss: 0.33669|			
+| Train Acc:91.91| Valid Acc:81.85| Test Acc:94.07|time: 1245.07s|
+
+2020-10-28 09:21:10,163 
+ |Epoch: 303 over| Train Loss: 0.16207| Valid Loss: 0.33494|			
+| Train Acc:91.40| Valid Acc:81.65| Test Acc:93.85|time: 1246.41s|
+
+2020-10-29 04:10:54,463 
+ |Epoch: 304 over| Train Loss: 0.18743| Valid Loss: 0.33122|			
+| Train Acc:90.17| Valid Acc:81.95| Test Acc:93.93|time: 1289.49s|
+
+2020-10-29 04:34:42,099 
+ |Epoch: 305 over| Train Loss: 0.19134| Valid Loss: 0.34091|			
+| Train Acc:89.90| Valid Acc:81.75| Test Acc:94.05|time: 1275.79s|
+
+2020-10-29 04:58:59,708 
+ |Epoch: 306 over| Train Loss: 0.18897| Valid Loss: 0.33388|			
+| Train Acc:90.02| Valid Acc:82.00| Test Acc:94.42|time: 1283.48s|
+
+2020-10-29 05:23:18,516 
+ |Epoch: 307 over| Train Loss: 0.18326| Valid Loss: 0.32790|			
+| Train Acc:90.52| Valid Acc:81.80| Test Acc:94.37|time: 1285.19s|
+
+2020-10-29 05:47:19,570 
+ |Epoch: 308 over| Train Loss: 0.18502| Valid Loss: 0.33809|			
+| Train Acc:90.24| Valid Acc:82.10| Test Acc:94.17|time: 1289.15s|
+
+2020-10-29 06:11:37,657 
+ |Epoch: 309 over| Train Loss: 0.18748| Valid Loss: 0.32601|			
+| Train Acc:90.15| Valid Acc:82.20| Test Acc:94.34|time: 1288.26s|
+
+2020-10-29 06:35:47,746 
+ |Epoch: 310 over| Train Loss: 0.18658| Valid Loss: 0.33532|			
+| Train Acc:90.33| Valid Acc:81.95| Test Acc:94.21|time: 1281.40s|
+
+2020-10-29 06:59:47,300 
+ |Epoch: 311 over| Train Loss: 0.18672| Valid Loss: 0.33207|			
+| Train Acc:90.04| Valid Acc:82.10| Test Acc:94.33|time: 1286.78s|
+
+2020-10-29 07:23:56,662 
+ |Epoch: 312 over| Train Loss: 0.18730| Valid Loss: 0.33419|			
+| Train Acc:90.10| Valid Acc:82.05| Test Acc:94.20|time: 1289.91s|
+
+2020-10-29 07:47:42,056 
+ |Epoch: 313 over| Train Loss: 0.18564| Valid Loss: 0.33756|			
+| Train Acc:90.34| Valid Acc:81.95| Test Acc:94.42|time: 1275.89s|
+
+2020-10-29 08:11:00,498 
+ |Epoch: 314 over| Train Loss: 0.18625| Valid Loss: 0.33109|			
+| Train Acc:90.11| Valid Acc:81.85| Test Acc:94.24|time: 1249.64s|
+
+2020-10-29 08:34:14,640 
+ |Epoch: 315 over| Train Loss: 0.19364| Valid Loss: 0.33291|			
+| Train Acc:90.02| Valid Acc:82.20| Test Acc:94.14|time: 1244.88s|
+
+2020-10-29 08:57:30,459 
+ |Epoch: 316 over| Train Loss: 0.18964| Valid Loss: 0.33900|			
+| Train Acc:89.95| Valid Acc:81.95| Test Acc:94.17|time: 1246.17s|
+
+2020-10-29 09:20:45,341 
+ |Epoch: 317 over| Train Loss: 0.18669| Valid Loss: 0.33326|			
+| Train Acc:90.24| Valid Acc:82.00| Test Acc:94.19|time: 1246.63s|
+
+2020-10-29 09:44:03,911 
+ |Epoch: 318 over| Train Loss: 0.18931| Valid Loss: 0.33245|			
+| Train Acc:90.03| Valid Acc:82.10| Test Acc:94.38|time: 1248.19s|
+
+2020-10-29 10:07:22,742 
+ |Epoch: 319 over| Train Loss: 0.19071| Valid Loss: 0.33550|			
+| Train Acc:89.90| Valid Acc:81.95| Test Acc:94.41|time: 1248.44s|
+
+2020-10-29 10:30:40,352 
+ |Epoch: 320 over| Train Loss: 0.18962| Valid Loss: 0.32978|			
+| Train Acc:90.03| Valid Acc:81.80| Test Acc:94.36|time: 1248.06s|
+
+2020-10-29 10:53:54,546 
+ |Epoch: 321 over| Train Loss: 0.18881| Valid Loss: 0.33770|			
+| Train Acc:90.00| Valid Acc:82.20| Test Acc:94.05|time: 1246.29s|
+
+2020-10-29 11:17:09,804 
+ |Epoch: 322 over| Train Loss: 0.18484| Valid Loss: 0.32907|			
+| Train Acc:90.45| Valid Acc:82.10| Test Acc:94.11|time: 1245.88s|
+
+2020-10-29 11:40:24,960 
+ |Epoch: 323 over| Train Loss: 0.18763| Valid Loss: 0.32598|			
+| Train Acc:90.00| Valid Acc:82.40| Test Acc:94.29|time: 1245.15s|
+
+2020-10-29 12:03:40,305 
+ |Epoch: 324 over| Train Loss: 0.18729| Valid Loss: 0.33242|			
+| Train Acc:90.31| Valid Acc:81.80| Test Acc:94.23|time: 1245.14s|
+
+2020-10-29 12:26:54,024 
+ |Epoch: 325 over| Train Loss: 0.19086| Valid Loss: 0.32368|			
+| Train Acc:90.07| Valid Acc:82.10| Test Acc:94.40|time: 1246.03s|
+
+2020-10-29 12:50:08,136 
+ |Epoch: 326 over| Train Loss: 0.18234| Valid Loss: 0.33334|			
+| Train Acc:90.39| Valid Acc:82.05| Test Acc:94.32|time: 1244.45s|
+
+2020-10-29 13:13:26,504 
+ |Epoch: 327 over| Train Loss: 0.18526| Valid Loss: 0.33373|			
+| Train Acc:90.32| Valid Acc:82.05| Test Acc:94.39|time: 1247.65s|
+
+2020-10-29 13:36:48,901 
+ |Epoch: 328 over| Train Loss: 0.18650| Valid Loss: 0.32973|			
+| Train Acc:90.25| Valid Acc:81.75| Test Acc:94.32|time: 1252.35s|
+
+2020-10-29 14:00:13,681 
+ |Epoch: 329 over| Train Loss: 0.18703| Valid Loss: 0.33378|			
+| Train Acc:90.17| Valid Acc:81.80| Test Acc:94.39|time: 1252.36s|
+
+2020-10-29 14:23:39,813 
+ |Epoch: 330 over| Train Loss: 0.18706| Valid Loss: 0.33386|			
+| Train Acc:90.19| Valid Acc:82.20| Test Acc:94.16|time: 1254.31s|
+
+2020-10-29 14:47:01,342 
+ |Epoch: 331 over| Train Loss: 0.18826| Valid Loss: 0.33396|			
+| Train Acc:90.10| Valid Acc:81.95| Test Acc:94.12|time: 1251.40s|
+
+2020-10-29 15:10:26,795 
+ |Epoch: 332 over| Train Loss: 0.18942| Valid Loss: 0.32888|			
+| Train Acc:90.10| Valid Acc:82.20| Test Acc:94.47|time: 1253.60s|
+
+2020-10-29 15:33:50,202 
+ |Epoch: 333 over| Train Loss: 0.18357| Valid Loss: 0.33579|			
+| Train Acc:90.28| Valid Acc:82.00| Test Acc:94.14|time: 1252.90s|
+
+2020-10-29 15:57:11,030 
+ |Epoch: 334 over| Train Loss: 0.18920| Valid Loss: 0.33031|			
+| Train Acc:89.96| Valid Acc:82.00| Test Acc:94.25|time: 1252.05s|
+
+2020-10-29 16:20:32,890 
+ |Epoch: 335 over| Train Loss: 0.18869| Valid Loss: 0.33464|			
+| Train Acc:90.26| Valid Acc:81.80| Test Acc:94.20|time: 1251.67s|
+
+2020-10-29 16:43:56,893 
+ |Epoch: 336 over| Train Loss: 0.18492| Valid Loss: 0.32986|			
+| Train Acc:90.25| Valid Acc:81.90| Test Acc:94.49|time: 1254.83s|
+
+2020-10-29 17:07:27,394 
+ |Epoch: 337 over| Train Loss: 0.18630| Valid Loss: 0.34267|			
+| Train Acc:90.23| Valid Acc:81.35| Test Acc:93.83|time: 1259.54s|
+
+2020-10-29 17:30:53,123 
+ |Epoch: 338 over| Train Loss: 0.18748| Valid Loss: 0.33662|			
+| Train Acc:90.16| Valid Acc:81.75| Test Acc:94.16|time: 1256.11s|
+
+2020-10-29 17:54:20,268 
+ |Epoch: 339 over| Train Loss: 0.18856| Valid Loss: 0.33299|			
+| Train Acc:90.10| Valid Acc:82.05| Test Acc:94.38|time: 1255.48s|
+
+2020-10-29 18:17:46,518 
+ |Epoch: 340 over| Train Loss: 0.18992| Valid Loss: 0.33195|			
+| Train Acc:89.95| Valid Acc:81.70| Test Acc:94.23|time: 1255.77s|
+
+2020-10-29 18:41:14,458 
+ |Epoch: 341 over| Train Loss: 0.18975| Valid Loss: 0.33002|			
+| Train Acc:89.99| Valid Acc:82.50| Test Acc:94.39|time: 1257.61s|
+
+2020-10-29 19:04:44,000 
+ |Epoch: 342 over| Train Loss: 0.18758| Valid Loss: 0.34228|			
+| Train Acc:90.26| Valid Acc:82.00| Test Acc:93.98|time: 1257.76s|
+
+2020-10-29 19:28:07,437 
+ |Epoch: 343 over| Train Loss: 0.18856| Valid Loss: 0.33333|			
+| Train Acc:90.26| Valid Acc:81.45| Test Acc:94.10|time: 1254.03s|
+
+2020-10-29 19:51:29,568 
+ |Epoch: 344 over| Train Loss: 0.18859| Valid Loss: 0.32667|			
+| Train Acc:90.10| Valid Acc:81.65| Test Acc:94.30|time: 1251.25s|
+
+2020-10-29 20:14:52,686 
+ |Epoch: 345 over| Train Loss: 0.18760| Valid Loss: 0.33384|			
+| Train Acc:90.05| Valid Acc:82.05| Test Acc:94.25|time: 1254.18s|
+
+2020-10-29 20:38:16,084 
+ |Epoch: 346 over| Train Loss: 0.18870| Valid Loss: 0.32695|			
+| Train Acc:90.25| Valid Acc:82.20| Test Acc:94.45|time: 1253.72s|
+
+2020-10-29 21:01:40,032 
+ |Epoch: 347 over| Train Loss: 0.18406| Valid Loss: 0.33682|			
+| Train Acc:90.15| Valid Acc:81.65| Test Acc:94.18|time: 1253.55s|
+
+2020-10-29 21:25:03,457 
+ |Epoch: 348 over| Train Loss: 0.18881| Valid Loss: 0.33357|			
+| Train Acc:90.06| Valid Acc:82.05| Test Acc:94.22|time: 1253.39s|
+
+2020-10-29 21:48:27,729 
+ |Epoch: 349 over| Train Loss: 0.18818| Valid Loss: 0.33956|			
+| Train Acc:90.15| Valid Acc:81.70| Test Acc:93.95|time: 1254.91s|
+
+2020-10-29 22:11:52,038 
+ |Epoch: 350 over| Train Loss: 0.18594| Valid Loss: 0.34430|			
+| Train Acc:90.32| Valid Acc:81.25| Test Acc:93.76|time: 1252.51s|
+
+2020-10-29 22:35:15,623 
+ |Epoch: 351 over| Train Loss: 0.18428| Valid Loss: 0.33598|			
+| Train Acc:90.25| Valid Acc:81.75| Test Acc:94.15|time: 1253.10s|
+
+2020-10-29 22:58:47,147 
+ |Epoch: 352 over| Train Loss: 0.18601| Valid Loss: 0.32907|			
+| Train Acc:90.21| Valid Acc:82.00| Test Acc:94.48|time: 1255.47s|
+
+2020-10-29 23:22:24,063 
+ |Epoch: 353 over| Train Loss: 0.18902| Valid Loss: 0.33457|			
+| Train Acc:90.02| Valid Acc:82.35| Test Acc:94.43|time: 1265.04s|
+
+2020-10-29 23:46:28,675 
+ |Epoch: 354 over| Train Loss: 0.18836| Valid Loss: 0.33414|			
+| Train Acc:90.02| Valid Acc:81.95| Test Acc:94.21|time: 1269.26s|
+
+2020-10-30 00:10:26,911 
+ |Epoch: 355 over| Train Loss: 0.18711| Valid Loss: 0.33482|			
+| Train Acc:90.25| Valid Acc:81.85| Test Acc:94.25|time: 1283.92s|
+
+2020-11-16 09:07:27,949 
+ |Epoch: 356 over| Train Loss: 0.18488| Valid Loss: 0.33283|			
+| Train Acc:90.31| Valid Acc:82.05| Test Acc:94.10|time: 1246.77s|
+
+2020-11-16 09:30:34,655 
+ |Epoch: 357 over| Train Loss: 0.18297| Valid Loss: 0.33174|			
+| Train Acc:90.40| Valid Acc:81.95| Test Acc:94.29|time: 1234.67s|
+
+2020-11-16 09:53:40,185 
+ |Epoch: 358 over| Train Loss: 0.18518| Valid Loss: 0.33366|			
+| Train Acc:90.25| Valid Acc:82.25| Test Acc:94.45|time: 1233.57s|
+
+2020-11-16 10:16:44,586 
+ |Epoch: 359 over| Train Loss: 0.18446| Valid Loss: 0.32967|			
+| Train Acc:90.61| Valid Acc:82.15| Test Acc:94.39|time: 1233.45s|
+
+2020-11-16 10:39:50,160 
+ |Epoch: 360 over| Train Loss: 0.18415| Valid Loss: 0.32987|			
+| Train Acc:90.44| Valid Acc:82.35| Test Acc:94.42|time: 1233.90s|
+
+2020-11-16 11:02:55,104 
+ |Epoch: 361 over| Train Loss: 0.18332| Valid Loss: 0.32808|			
+| Train Acc:90.24| Valid Acc:81.55| Test Acc:94.32|time: 1233.64s|
+
+2020-11-16 11:25:59,880 
+ |Epoch: 362 over| Train Loss: 0.18122| Valid Loss: 0.32969|			
+| Train Acc:90.46| Valid Acc:82.35| Test Acc:94.43|time: 1233.29s|
+
+2020-11-16 11:49:02,480 
+ |Epoch: 363 over| Train Loss: 0.18457| Valid Loss: 0.35231|			
+| Train Acc:90.28| Valid Acc:81.50| Test Acc:93.24|time: 1232.46s|
+
+2020-11-16 12:12:07,044 
+ |Epoch: 364 over| Train Loss: 0.18326| Valid Loss: 0.32786|			
+| Train Acc:90.37| Valid Acc:82.30| Test Acc:94.17|time: 1233.23s|
+
+2020-11-16 12:35:10,740 
+ |Epoch: 365 over| Train Loss: 0.18155| Valid Loss: 0.33319|			
+| Train Acc:90.55| Valid Acc:82.00| Test Acc:94.09|time: 1233.04s|
+
+2020-11-16 12:58:10,827 
+ |Epoch: 366 over| Train Loss: 0.18118| Valid Loss: 0.32726|			
+| Train Acc:90.44| Valid Acc:82.25| Test Acc:94.35|time: 1230.91s|
+
+2020-11-16 13:21:12,611 
+ |Epoch: 367 over| Train Loss: 0.18247| Valid Loss: 0.32899|			
+| Train Acc:90.21| Valid Acc:82.10| Test Acc:94.45|time: 1231.47s|
+
+2020-11-16 13:44:19,156 
+ |Epoch: 368 over| Train Loss: 0.18171| Valid Loss: 0.33302|			
+| Train Acc:90.39| Valid Acc:82.70| Test Acc:94.28|time: 1235.48s|
+
+2020-11-16 14:07:38,313 
+ |Epoch: 369 over| Train Loss: 0.18644| Valid Loss: 0.33051|			
+| Train Acc:90.31| Valid Acc:82.35| Test Acc:94.28|time: 1248.71s|
+
+2020-11-16 14:31:01,560 
+ |Epoch: 370 over| Train Loss: 0.18510| Valid Loss: 0.32749|			
+| Train Acc:90.21| Valid Acc:81.90| Test Acc:94.34|time: 1250.23s|
+
+2020-11-16 14:54:26,240 
+ |Epoch: 371 over| Train Loss: 0.18324| Valid Loss: 0.33180|			
+| Train Acc:90.48| Valid Acc:81.85| Test Acc:94.30|time: 1251.89s|
+
+2020-11-16 15:17:48,297 
+ |Epoch: 372 over| Train Loss: 0.18510| Valid Loss: 0.33322|			
+| Train Acc:90.04| Valid Acc:81.75| Test Acc:94.14|time: 1249.61s|
+
+2020-11-16 15:41:11,401 
+ |Epoch: 373 over| Train Loss: 0.18377| Valid Loss: 0.33318|			
+| Train Acc:90.35| Valid Acc:82.20| Test Acc:94.23|time: 1248.81s|
+
+2020-11-16 16:04:35,351 
+ |Epoch: 374 over| Train Loss: 0.18292| Valid Loss: 0.32881|			
+| Train Acc:90.44| Valid Acc:81.95| Test Acc:94.50|time: 1250.89s|
+
+2020-11-16 16:27:58,324 
+ |Epoch: 375 over| Train Loss: 0.18593| Valid Loss: 0.33106|			
+| Train Acc:90.03| Valid Acc:81.80| Test Acc:94.25|time: 1250.89s|
+
+2020-11-16 16:51:22,128 
+ |Epoch: 376 over| Train Loss: 0.18459| Valid Loss: 0.33181|			
+| Train Acc:90.41| Valid Acc:82.20| Test Acc:94.33|time: 1249.98s|
+
+2020-11-16 17:14:45,747 
+ |Epoch: 377 over| Train Loss: 0.18356| Valid Loss: 0.33254|			
+| Train Acc:90.25| Valid Acc:82.30| Test Acc:94.35|time: 1249.89s|
+
+2020-11-16 17:38:07,880 
+ |Epoch: 378 over| Train Loss: 0.18242| Valid Loss: 0.33737|			
+| Train Acc:90.51| Valid Acc:82.05| Test Acc:94.23|time: 1248.12s|
+
+2020-11-16 18:01:33,058 
+ |Epoch: 379 over| Train Loss: 0.18504| Valid Loss: 0.32631|			
+| Train Acc:90.43| Valid Acc:82.35| Test Acc:94.36|time: 1249.85s|
+
+2020-11-16 18:24:56,007 
+ |Epoch: 380 over| Train Loss: 0.18267| Valid Loss: 0.33464|			
+| Train Acc:90.49| Valid Acc:81.95| Test Acc:94.27|time: 1248.13s|
+
+2020-11-16 18:48:17,257 
+ |Epoch: 381 over| Train Loss: 0.18521| Valid Loss: 0.33393|			
+| Train Acc:90.13| Valid Acc:81.75| Test Acc:94.07|time: 1248.48s|
+
+2020-11-16 19:11:41,217 
+ |Epoch: 382 over| Train Loss: 0.17960| Valid Loss: 0.33464|			
+| Train Acc:90.54| Valid Acc:81.55| Test Acc:94.08|time: 1250.45s|
+
+2020-11-16 19:35:04,189 
+ |Epoch: 383 over| Train Loss: 0.18546| Valid Loss: 0.32622|			
+| Train Acc:90.34| Valid Acc:82.20| Test Acc:94.37|time: 1250.37s|
+
+2020-11-16 19:58:24,364 
+ |Epoch: 384 over| Train Loss: 0.18731| Valid Loss: 0.32998|			
+| Train Acc:90.25| Valid Acc:82.55| Test Acc:94.41|time: 1249.13s|
+
+2020-11-16 20:21:43,375 
+ |Epoch: 385 over| Train Loss: 0.18117| Valid Loss: 0.33167|			
+| Train Acc:90.43| Valid Acc:82.20| Test Acc:94.35|time: 1247.65s|
+
+2020-11-16 20:45:01,339 
+ |Epoch: 386 over| Train Loss: 0.18370| Valid Loss: 0.32681|			
+| Train Acc:90.26| Valid Acc:81.95| Test Acc:94.42|time: 1247.16s|
+
+2020-11-16 21:08:20,036 
+ |Epoch: 387 over| Train Loss: 0.18255| Valid Loss: 0.32832|			
+| Train Acc:90.46| Valid Acc:81.70| Test Acc:94.07|time: 1247.95s|
+
+2020-11-16 21:31:39,196 
+ |Epoch: 388 over| Train Loss: 0.18559| Valid Loss: 0.33709|			
+| Train Acc:90.20| Valid Acc:81.65| Test Acc:94.04|time: 1247.80s|
+
+2020-11-16 21:54:55,654 
+ |Epoch: 389 over| Train Loss: 0.18377| Valid Loss: 0.33285|			
+| Train Acc:90.46| Valid Acc:81.85| Test Acc:94.16|time: 1246.66s|
+
+2020-11-16 22:18:14,086 
+ |Epoch: 390 over| Train Loss: 0.18389| Valid Loss: 0.33248|			
+| Train Acc:90.46| Valid Acc:81.75| Test Acc:94.38|time: 1247.00s|
+
+2020-11-16 22:41:34,703 
+ |Epoch: 391 over| Train Loss: 0.18725| Valid Loss: 0.33852|			
+| Train Acc:90.11| Valid Acc:81.75| Test Acc:94.01|time: 1249.22s|
+
+2020-11-16 23:04:53,793 
+ |Epoch: 392 over| Train Loss: 0.18119| Valid Loss: 0.33805|			
+| Train Acc:90.50| Valid Acc:81.65| Test Acc:94.21|time: 1247.25s|
+
+2020-11-16 23:28:12,553 
+ |Epoch: 393 over| Train Loss: 0.18495| Valid Loss: 0.32696|			
+| Train Acc:90.29| Valid Acc:81.90| Test Acc:94.29|time: 1247.87s|
+
+2020-11-16 23:51:33,033 
+ |Epoch: 394 over| Train Loss: 0.18525| Valid Loss: 0.33176|			
+| Train Acc:90.41| Valid Acc:81.70| Test Acc:94.28|time: 1249.28s|
+
+2020-11-17 00:14:53,347 
+ |Epoch: 395 over| Train Loss: 0.18450| Valid Loss: 0.32786|			
+| Train Acc:90.59| Valid Acc:81.85| Test Acc:94.31|time: 1248.66s|
+
+2020-11-17 00:38:13,810 
+ |Epoch: 396 over| Train Loss: 0.18170| Valid Loss: 0.32686|			
+| Train Acc:90.76| Valid Acc:82.45| Test Acc:94.13|time: 1247.56s|
+
+2020-11-17 01:01:36,958 
+ |Epoch: 397 over| Train Loss: 0.18423| Valid Loss: 0.33622|			
+| Train Acc:90.25| Valid Acc:81.85| Test Acc:94.12|time: 1251.36s|
+
+2020-11-17 01:24:54,645 
+ |Epoch: 398 over| Train Loss: 0.18471| Valid Loss: 0.32896|			
+| Train Acc:90.35| Valid Acc:82.25| Test Acc:94.35|time: 1247.61s|
+
+2020-11-17 01:48:00,138 
+ |Epoch: 399 over| Train Loss: 0.18353| Valid Loss: 0.33512|			
+| Train Acc:90.57| Valid Acc:81.35| Test Acc:94.17|time: 1233.11s|
+
+2020-11-17 02:11:03,605 
+ |Epoch: 400 over| Train Loss: 0.18452| Valid Loss: 0.33394|			
+| Train Acc:90.16| Valid Acc:81.85| Test Acc:94.07|time: 1232.48s|
+
+2020-11-17 02:34:08,279 
+ |Epoch: 401 over| Train Loss: 0.18231| Valid Loss: 0.33015|			
+| Train Acc:90.45| Valid Acc:81.90| Test Acc:94.28|time: 1232.70s|
+
+2020-11-17 02:57:11,409 
+ |Epoch: 402 over| Train Loss: 0.18478| Valid Loss: 0.33520|			
+| Train Acc:90.35| Valid Acc:81.95| Test Acc:94.14|time: 1231.26s|
+
+2020-11-17 03:20:14,132 
+ |Epoch: 403 over| Train Loss: 0.18380| Valid Loss: 0.32870|			
+| Train Acc:90.21| Valid Acc:82.40| Test Acc:94.37|time: 1231.19s|
+
+2020-11-17 03:43:17,994 
+ |Epoch: 404 over| Train Loss: 0.18448| Valid Loss: 0.33797|			
+| Train Acc:90.53| Valid Acc:81.40| Test Acc:93.97|time: 1233.00s|
+
+2020-11-17 04:06:22,784 
+ |Epoch: 405 over| Train Loss: 0.18644| Valid Loss: 0.33562|			
+| Train Acc:90.05| Valid Acc:81.80| Test Acc:94.18|time: 1233.16s|
+
+2020-11-17 04:29:27,798 
+ |Epoch: 406 over| Train Loss: 0.18427| Valid Loss: 0.33701|			
+| Train Acc:90.31| Valid Acc:82.00| Test Acc:94.21|time: 1231.80s|
+
+2020-11-17 04:52:30,681 
+ |Epoch: 407 over| Train Loss: 0.18054| Valid Loss: 0.32563|			
+| Train Acc:90.60| Valid Acc:81.90| Test Acc:94.39|time: 1229.83s|
+
+2020-11-17 05:15:35,950 
+ |Epoch: 408 over| Train Loss: 0.18357| Valid Loss: 0.32982|			
+| Train Acc:90.21| Valid Acc:81.85| Test Acc:94.30|time: 1231.78s|
+
+2020-11-17 05:38:39,006 
+ |Epoch: 409 over| Train Loss: 0.18668| Valid Loss: 0.33390|			
+| Train Acc:90.09| Valid Acc:82.40| Test Acc:94.37|time: 1231.74s|
+
+2020-11-17 06:01:48,391 
+ |Epoch: 410 over| Train Loss: 0.18452| Valid Loss: 0.33715|			
+| Train Acc:90.30| Valid Acc:82.35| Test Acc:94.23|time: 1235.95s|
+
+2020-11-17 06:25:10,430 
+ |Epoch: 411 over| Train Loss: 0.18294| Valid Loss: 0.33323|			
+| Train Acc:90.52| Valid Acc:81.95| Test Acc:94.28|time: 1250.47s|
+
+2020-11-17 06:48:28,961 
+ |Epoch: 412 over| Train Loss: 0.18420| Valid Loss: 0.34308|			
+| Train Acc:90.31| Valid Acc:81.60| Test Acc:93.88|time: 1247.70s|
+
+2020-11-17 07:11:47,533 
+ |Epoch: 413 over| Train Loss: 0.18487| Valid Loss: 0.33695|			
+| Train Acc:90.20| Valid Acc:81.85| Test Acc:94.11|time: 1247.67s|
+
+2020-11-17 07:35:11,671 
+ |Epoch: 414 over| Train Loss: 0.18430| Valid Loss: 0.32816|			
+| Train Acc:90.46| Valid Acc:81.95| Test Acc:94.31|time: 1250.41s|
+
+2020-11-17 07:58:27,456 
+ |Epoch: 415 over| Train Loss: 0.18247| Valid Loss: 0.33351|			
+| Train Acc:90.47| Valid Acc:82.10| Test Acc:94.11|time: 1244.93s|
+
+2020-11-17 08:21:29,484 
+ |Epoch: 416 over| Train Loss: 0.18051| Valid Loss: 0.32533|			
+| Train Acc:90.67| Valid Acc:81.85| Test Acc:94.37|time: 1230.24s|
+
+2020-11-17 08:44:32,594 
+ |Epoch: 417 over| Train Loss: 0.18144| Valid Loss: 0.33065|			
+| Train Acc:90.69| Valid Acc:82.40| Test Acc:94.27|time: 1231.34s|
+
+2020-11-17 09:07:35,462 
+ |Epoch: 418 over| Train Loss: 0.18704| Valid Loss: 0.33336|			
+| Train Acc:90.24| Valid Acc:82.30| Test Acc:94.41|time: 1232.10s|
+
+2020-11-17 09:30:38,705 
+ |Epoch: 419 over| Train Loss: 0.18318| Valid Loss: 0.33018|			
+| Train Acc:90.30| Valid Acc:81.85| Test Acc:94.20|time: 1231.80s|
+
+2020-11-17 09:53:40,694 
+ |Epoch: 420 over| Train Loss: 0.18356| Valid Loss: 0.33600|			
+| Train Acc:90.32| Valid Acc:81.80| Test Acc:94.38|time: 1230.88s|
+
+2020-11-17 10:16:45,184 
+ |Epoch: 421 over| Train Loss: 0.18669| Valid Loss: 0.33077|			
+| Train Acc:90.13| Valid Acc:82.15| Test Acc:94.39|time: 1232.40s|
+
+2020-11-17 10:39:48,247 
+ |Epoch: 422 over| Train Loss: 0.18257| Valid Loss: 0.33448|			
+| Train Acc:90.52| Valid Acc:82.15| Test Acc:94.14|time: 1231.56s|
+
+2020-11-17 11:02:52,546 
+ |Epoch: 423 over| Train Loss: 0.18252| Valid Loss: 0.33100|			
+| Train Acc:90.37| Valid Acc:81.85| Test Acc:94.22|time: 1232.42s|
+
+2020-11-17 11:25:57,205 
+ |Epoch: 424 over| Train Loss: 0.18300| Valid Loss: 0.33683|			
+| Train Acc:90.41| Valid Acc:82.00| Test Acc:93.99|time: 1234.93s|
+
+2020-11-17 11:49:10,234 
+ |Epoch: 425 over| Train Loss: 0.18262| Valid Loss: 0.33086|			
+| Train Acc:90.36| Valid Acc:82.10| Test Acc:94.34|time: 1235.39s|
+
+2020-11-17 12:12:35,239 
+ |Epoch: 426 over| Train Loss: 0.18505| Valid Loss: 0.33164|			
+| Train Acc:90.30| Valid Acc:81.95| Test Acc:94.21|time: 1252.63s|
+
+2020-11-17 12:35:56,635 
+ |Epoch: 427 over| Train Loss: 0.18292| Valid Loss: 0.33732|			
+| Train Acc:90.39| Valid Acc:82.15| Test Acc:94.29|time: 1249.54s|
+
+2020-11-17 12:59:17,010 
+ |Epoch: 428 over| Train Loss: 0.18332| Valid Loss: 0.33686|			
+| Train Acc:90.36| Valid Acc:81.70| Test Acc:94.10|time: 1249.47s|
+
+2020-11-17 13:22:41,166 
+ |Epoch: 429 over| Train Loss: 0.18307| Valid Loss: 0.33110|			
+| Train Acc:90.46| Valid Acc:82.15| Test Acc:94.32|time: 1251.02s|
+
+2020-11-17 13:46:08,308 
+ |Epoch: 430 over| Train Loss: 0.18698| Valid Loss: 0.32957|			
+| Train Acc:90.18| Valid Acc:81.80| Test Acc:94.22|time: 1252.25s|
+
+2020-11-17 14:09:32,718 
+ |Epoch: 431 over| Train Loss: 0.18126| Valid Loss: 0.33232|			
+| Train Acc:90.63| Valid Acc:82.10| Test Acc:94.40|time: 1250.38s|
+
+2020-11-17 14:32:56,851 
+ |Epoch: 432 over| Train Loss: 0.18273| Valid Loss: 0.33246|			
+| Train Acc:90.35| Valid Acc:81.75| Test Acc:93.99|time: 1249.51s|
+
+2020-11-17 14:56:17,461 
+ |Epoch: 433 over| Train Loss: 0.17968| Valid Loss: 0.33598|			
+| Train Acc:90.61| Valid Acc:81.85| Test Acc:94.05|time: 1248.26s|
+
+2020-11-17 15:19:41,098 
+ |Epoch: 434 over| Train Loss: 0.18033| Valid Loss: 0.33190|			
+| Train Acc:90.57| Valid Acc:81.70| Test Acc:94.09|time: 1249.35s|
+
+2020-11-17 15:43:01,025 
+ |Epoch: 435 over| Train Loss: 0.18394| Valid Loss: 0.34118|			
+| Train Acc:90.28| Valid Acc:81.80| Test Acc:94.09|time: 1246.64s|
+
+2020-11-17 16:06:03,813 
+ |Epoch: 436 over| Train Loss: 0.18394| Valid Loss: 0.32642|			
+| Train Acc:90.25| Valid Acc:82.25| Test Acc:94.45|time: 1231.19s|
+
+2020-11-17 16:29:05,639 
+ |Epoch: 437 over| Train Loss: 0.18375| Valid Loss: 0.33311|			
+| Train Acc:90.59| Valid Acc:81.95| Test Acc:94.40|time: 1230.67s|
+
+2020-11-17 16:52:08,880 
+ |Epoch: 438 over| Train Loss: 0.18546| Valid Loss: 0.32658|			
+| Train Acc:90.35| Valid Acc:82.20| Test Acc:94.45|time: 1231.95s|
+
+2020-11-17 17:15:10,913 
+ |Epoch: 439 over| Train Loss: 0.18269| Valid Loss: 0.33100|			
+| Train Acc:90.50| Valid Acc:81.80| Test Acc:94.41|time: 1231.37s|
+
+2020-11-17 17:38:26,779 
+ |Epoch: 440 over| Train Loss: 0.17738| Valid Loss: 0.33186|			
+| Train Acc:90.75| Valid Acc:82.05| Test Acc:94.28|time: 1241.57s|
+
+2020-11-17 18:00:54,509 
+ |Epoch: 441 over| Train Loss: 0.18103| Valid Loss: 0.34524|			
+| Train Acc:90.47| Valid Acc:81.55| Test Acc:93.84|time: 1196.39s|
+
+2020-11-17 18:24:13,863 
+ |Epoch: 442 over| Train Loss: 0.18482| Valid Loss: 0.32861|			
+| Train Acc:90.44| Valid Acc:81.75| Test Acc:94.35|time: 1248.12s|
+
+2020-11-17 18:47:30,940 
+ |Epoch: 443 over| Train Loss: 0.18443| Valid Loss: 0.32879|			
+| Train Acc:90.40| Valid Acc:82.15| Test Acc:94.08|time: 1246.17s|
+
+2020-11-17 19:10:49,708 
+ |Epoch: 444 over| Train Loss: 0.18291| Valid Loss: 0.33504|			
+| Train Acc:90.50| Valid Acc:82.00| Test Acc:94.10|time: 1246.87s|
+
+2020-11-17 19:34:08,431 
+ |Epoch: 445 over| Train Loss: 0.18094| Valid Loss: 0.33515|			
+| Train Acc:90.53| Valid Acc:81.85| Test Acc:94.10|time: 1248.01s|
+
+2020-11-17 19:57:24,427 
+ |Epoch: 446 over| Train Loss: 0.18524| Valid Loss: 0.33485|			
+| Train Acc:90.23| Valid Acc:82.05| Test Acc:94.16|time: 1245.65s|
+
+2020-11-17 20:20:42,258 
+ |Epoch: 447 over| Train Loss: 0.18431| Valid Loss: 0.33248|			
+| Train Acc:90.21| Valid Acc:81.70| Test Acc:94.34|time: 1247.10s|
+
+2020-11-17 20:44:00,349 
+ |Epoch: 448 over| Train Loss: 0.17839| Valid Loss: 0.33281|			
+| Train Acc:90.59| Valid Acc:81.55| Test Acc:94.19|time: 1246.85s|
+
+2020-11-17 21:07:18,935 
+ |Epoch: 449 over| Train Loss: 0.18111| Valid Loss: 0.33292|			
+| Train Acc:90.49| Valid Acc:81.70| Test Acc:94.06|time: 1247.40s|
+
+2020-11-17 21:30:36,627 
+ |Epoch: 450 over| Train Loss: 0.18053| Valid Loss: 0.33516|			
+| Train Acc:90.51| Valid Acc:82.05| Test Acc:94.35|time: 1247.39s|
+
+2020-11-17 21:53:54,625 
+ |Epoch: 451 over| Train Loss: 0.18218| Valid Loss: 0.33536|			
+| Train Acc:90.37| Valid Acc:82.10| Test Acc:94.13|time: 1246.57s|
+
+2020-11-17 22:17:12,077 
+ |Epoch: 452 over| Train Loss: 0.18281| Valid Loss: 0.32848|			
+| Train Acc:90.10| Valid Acc:82.15| Test Acc:94.30|time: 1245.95s|
+
+2020-11-17 22:40:30,318 
+ |Epoch: 453 over| Train Loss: 0.18873| Valid Loss: 0.32911|			
+| Train Acc:90.10| Valid Acc:82.05| Test Acc:94.26|time: 1247.26s|
+
+2020-11-17 23:03:48,661 
+ |Epoch: 454 over| Train Loss: 0.18771| Valid Loss: 0.34114|			
+| Train Acc:90.23| Valid Acc:81.60| Test Acc:93.93|time: 1246.85s|
+
+2020-11-17 23:27:07,569 
+ |Epoch: 455 over| Train Loss: 0.17972| Valid Loss: 0.33228|			
+| Train Acc:90.78| Valid Acc:82.15| Test Acc:94.31|time: 1247.36s|
+
+2020-11-17 23:50:26,070 
+ |Epoch: 456 over| Train Loss: 0.18359| Valid Loss: 0.32630|			
+| Train Acc:90.19| Valid Acc:81.80| Test Acc:94.14|time: 1247.47s|
+
+2020-11-18 00:13:46,124 
+ |Epoch: 457 over| Train Loss: 0.18292| Valid Loss: 0.33609|			
+| Train Acc:90.27| Valid Acc:82.00| Test Acc:94.14|time: 1247.98s|
+
+2020-11-18 00:37:08,768 
+ |Epoch: 458 over| Train Loss: 0.18281| Valid Loss: 0.32833|			
+| Train Acc:90.46| Valid Acc:81.70| Test Acc:94.48|time: 1249.73s|
+
+2020-11-18 01:00:32,519 
+ |Epoch: 459 over| Train Loss: 0.18572| Valid Loss: 0.33821|			
+| Train Acc:90.06| Valid Acc:82.20| Test Acc:94.16|time: 1249.64s|
+
+2020-11-18 01:23:57,699 
+ |Epoch: 460 over| Train Loss: 0.18472| Valid Loss: 0.32780|			
+| Train Acc:90.31| Valid Acc:81.85| Test Acc:94.40|time: 1250.85s|
+
+2020-11-18 01:47:23,356 
+ |Epoch: 461 over| Train Loss: 0.17906| Valid Loss: 0.33486|			
+| Train Acc:90.74| Valid Acc:81.75| Test Acc:94.13|time: 1249.80s|
+
+2020-11-18 02:10:49,444 
+ |Epoch: 462 over| Train Loss: 0.18637| Valid Loss: 0.34076|			
+| Train Acc:90.21| Valid Acc:81.90| Test Acc:94.13|time: 1251.26s|
+
+2020-11-18 02:34:13,954 
+ |Epoch: 463 over| Train Loss: 0.18097| Valid Loss: 0.33270|			
+| Train Acc:90.67| Valid Acc:81.65| Test Acc:94.29|time: 1250.13s|
+
+2020-11-18 02:57:39,764 
+ |Epoch: 464 over| Train Loss: 0.18198| Valid Loss: 0.33728|			
+| Train Acc:90.39| Valid Acc:82.55| Test Acc:94.29|time: 1252.34s|
+
+2020-11-18 03:21:03,380 
+ |Epoch: 465 over| Train Loss: 0.18281| Valid Loss: 0.33115|			
+| Train Acc:90.22| Valid Acc:81.75| Test Acc:94.23|time: 1250.28s|
+
+2020-11-18 03:44:28,931 
+ |Epoch: 466 over| Train Loss: 0.18748| Valid Loss: 0.33203|			
+| Train Acc:90.23| Valid Acc:82.15| Test Acc:94.37|time: 1253.54s|
+
+2020-11-18 04:07:52,492 
+ |Epoch: 467 over| Train Loss: 0.18455| Valid Loss: 0.35159|			
+| Train Acc:90.40| Valid Acc:81.55| Test Acc:93.88|time: 1250.98s|
+
+2020-11-18 04:31:16,917 
+ |Epoch: 468 over| Train Loss: 0.18347| Valid Loss: 0.33333|			
+| Train Acc:90.31| Valid Acc:81.75| Test Acc:94.31|time: 1252.23s|
+
+2020-11-18 04:54:41,215 
+ |Epoch: 469 over| Train Loss: 0.18423| Valid Loss: 0.33637|			
+| Train Acc:90.41| Valid Acc:81.85| Test Acc:94.10|time: 1250.66s|
+
+2020-11-18 05:18:05,764 
+ |Epoch: 470 over| Train Loss: 0.18575| Valid Loss: 0.33453|			
+| Train Acc:90.17| Valid Acc:82.20| Test Acc:94.35|time: 1252.27s|
+
+2020-11-18 05:41:29,963 
+ |Epoch: 471 over| Train Loss: 0.18118| Valid Loss: 0.34206|			
+| Train Acc:90.52| Valid Acc:81.80| Test Acc:93.80|time: 1251.23s|
+
+2020-11-18 06:04:50,878 
+ |Epoch: 472 over| Train Loss: 0.18226| Valid Loss: 0.32889|			
+| Train Acc:90.53| Valid Acc:82.25| Test Acc:94.28|time: 1250.07s|
+
